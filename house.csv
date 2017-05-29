@@ -1,0 +1,2192 @@
+price , bedrooms , zipcode , city , building_type
+$3500 , 2br , 94070 , SAN CARLOS , house 
+$3800 , 3br , 94070 , SAN CARLOS , house 
+$5000 , 3br , 94070 , SAN CARLOS , house 
+$9950 , 5br , 94070 , SAN CARLOS , house 
+$5300 , 3br , 94070 , SAN CARLOS , house 
+$6600 , 4br , 94070 , SAN CARLOS , house 
+$5200 , 3br , 94070 , SAN CARLOS , house 
+$5800 , 3br , 94070 , SAN CARLOS , house 
+$3495 , 2br , 94964 , SAN QUENTIN , house 
+$2995 , 1br , 94010 , BURLINGAME , house 
+$12 , 6br , 94010 , BURLINGAME , house 
+$12000 , 6br , 94010 , BURLINGAME , house 
+$5800 , 3br , 94010 , BURLINGAME , house 
+$4250 , 2br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$4800 , 4br , 94010 , BURLINGAME , house 
+$7500 , 4br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$4400 , 2br , 94010 , BURLINGAME , house 
+$13800 , 6br , 94010 , BURLINGAME , house 
+$13800 , 6br , 94010 , BURLINGAME , house 
+$4450 , 3br , 94010 , BURLINGAME , house 
+$5599 , 3br , 94010 , BURLINGAME , house 
+$5900 , 3br , 94010 , BURLINGAME , house 
+$10000 , 3br , 94010 , BURLINGAME , house 
+$6500 , 4br , 94010 , BURLINGAME , house 
+$6000 , 4br , 94010 , BURLINGAME , house 
+$12500 , 3br , 94010 , BURLINGAME , house 
+$6800 , 5br , 94010 , BURLINGAME , house 
+$10000 , 6br , 94010 , BURLINGAME , house 
+$5695 , 3br , 94563 , ORINDA , house 
+$4200 , 3br , 94563 , ORINDA , house 
+$4450 , 2br , 94563 , ORINDA , house 
+$9000 , 4br , 94563 , ORINDA , house 
+$5500 , 2br , 94563 , ORINDA , house 
+$2350 , 2br , 94541 , HAYWARD , house 
+$2550 , 2br , 94541 , HAYWARD , house 
+$2350 , 2br , 94541 , HAYWARD , house 
+$3250 , 3br , 94541 , HAYWARD , house 
+$2350 , 2br , 94541 , HAYWARD , house 
+$3295 , 4br , 94541 , HAYWARD , house 
+$2750 , 3br , 94541 , HAYWARD , house 
+$3295 , 4br , 94541 , HAYWARD , house 
+$2700 , 3br , 94541 , HAYWARD , house 
+$4300 , 4br , 94541 , HAYWARD , house 
+$2350 , 2br , 94541 , HAYWARD , house 
+$3295 , 4br , 94541 , HAYWARD , house 
+$2700 , 3br , 94541 , HAYWARD , house 
+$2700 , 3br , 94541 , HAYWARD , house 
+$4200 , 4br , 94541 , HAYWARD , house 
+$4200 , 4br , 94541 , HAYWARD , house 
+$3295 , 4br , 94541 , HAYWARD , house 
+$3295 , 4br , 94541 , HAYWARD , house 
+$3200 , 4br , 94541 , HAYWARD , house 
+$2300 , 2br , 94541 , HAYWARD , house 
+$1300 , 1br , 94542 , HAYWARD , house 
+$2800 , 4br , 94542 , HAYWARD , house 
+$4500 , 6br , 94542 , HAYWARD , house 
+$3390 , 3br , 94542 , HAYWARD , house 
+$3390 , 3br , 94542 , HAYWARD , house 
+$3500 , 4br , 94542 , HAYWARD , house 
+$1000 , 1br , 94542 , HAYWARD , house 
+$3500 , 4br , 94542 , HAYWARD , house 
+$1800 , 4br , 94544 , HAYWARD , house 
+$2000 , 3br , 94544 , HAYWARD , house 
+$2000 , 3br , 94544 , HAYWARD , house 
+$2000 , 3br , 94544 , HAYWARD , house 
+$2000 , 3br , 94544 , HAYWARD , house 
+$2000 , 3br , 94544 , HAYWARD , house 
+$2675 , 3br , 94544 , HAYWARD , house 
+$2975 , 3br , 94544 , HAYWARD , house 
+$3400 , 3br , 94544 , HAYWARD , house 
+$3200 , 3br , 94544 , HAYWARD , house 
+$2450 , 3br , 94544 , HAYWARD , house 
+$2700 , 3br , 94544 , HAYWARD , house 
+$3400 , 4br , 94544 , HAYWARD , house 
+$3100 , 3br , 94544 , HAYWARD , house 
+$2700 , 3br , 94544 , HAYWARD , house 
+$3100 , 3br , 94544 , HAYWARD , house 
+$2600 , 3br , 94544 , HAYWARD , house 
+$3500 , 4br , 94545 , HAYWARD , house 
+$3500 , 4br , 94545 , HAYWARD , house 
+$2850 , 3br , 94545 , HAYWARD , house 
+$2850 , 3br , 94545 , HAYWARD , house 
+$2850 , 3br , 94545 , HAYWARD , house 
+$4200 , 5br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3200 , 3br , 94545 , HAYWARD , house 
+$3100 , 3br , 94545 , HAYWARD , house 
+$3250 , 3br , 95035 , MILPITAS , house 
+$3300 , 3br , 95035 , MILPITAS , house 
+$3300 , 3br , 95035 , MILPITAS , house 
+$3200 , 3br , 95035 , MILPITAS , house 
+$5750 , 3br , 95035 , MILPITAS , house 
+$3100 , 2br , 95035 , MILPITAS , house 
+$3695 , 3br , 95035 , MILPITAS , house 
+$3695 , 3br , 95035 , MILPITAS , house 
+$3695 , 3br , 95035 , MILPITAS , house 
+$3695 , 3br , 95035 , MILPITAS , house 
+$3950 , 4br , 95035 , MILPITAS , house 
+$1700 , 2br , 95035 , MILPITAS , house 
+$3200 , 3br , 95035 , MILPITAS , house 
+$3300 , 3br , 95035 , MILPITAS , house 
+$2900 , 4br , 95035 , MILPITAS , house 
+$2800 , 3br , 95035 , MILPITAS , house 
+$3250 , 4br , 95035 , MILPITAS , house 
+$3100 , 3br , 95035 , MILPITAS , house 
+$3400 , 4br , 95035 , MILPITAS , house 
+$3500 , 4br , 95035 , MILPITAS , house 
+$3795 , 4br , 95035 , MILPITAS , house 
+$3950 , 4br , 95035 , MILPITAS , house 
+$2999 , 3br , 95035 , MILPITAS , house 
+$3150 , 3br , 95035 , MILPITAS , house 
+$7900 , 2br , 94028 , PORTOLA VALLEY , house 
+$5495 , 4br , 94028 , PORTOLA VALLEY , house 
+$12800 , 5br , 94028 , PORTOLA VALLEY , house 
+$8300 , 3br , 94028 , PORTOLA VALLEY , house 
+$2650 , 1br , 94028 , PORTOLA VALLEY , house 
+$19000 , 5br , 94028 , PORTOLA VALLEY , house 
+$3650 , 4br , 94560 , NEWARK , house 
+$3750 , 4br , 94560 , NEWARK , house 
+$3200 , 4br , 94560 , NEWARK , house 
+$3800 , 4br , 94560 , NEWARK , house 
+$4100 , 4br , 94560 , NEWARK , house 
+$3200 , 3br , 94560 , NEWARK , house 
+$3950 , 4br , 94560 , NEWARK , house 
+$4500 , 4br , 94560 , NEWARK , house 
+$3265 , 4br , 94560 , NEWARK , house 
+$3000 , 3br , 94560 , NEWARK , house 
+$2650 , 2br , 94560 , NEWARK , house 
+$2750 , 3br , 94560 , NEWARK , house 
+$2900 , 3br , 94560 , NEWARK , house 
+$2600 , 2br , 94558 , NAPA , house 
+$2500 , 2br , 94558 , NAPA , house 
+$4500 , 3br , 94558 , NAPA , house 
+$3200 , 3br , 94558 , NAPA , house 
+$3100 , 5br , 94558 , NAPA , house 
+$2300 , 2br , 94558 , NAPA , house 
+$4400 , 4br , 94558 , NAPA , house 
+$3600 , 4br , 94558 , NAPA , house 
+$2000 , 2br , 94558 , NAPA , house 
+$2650 , 3br , 94558 , NAPA , house 
+$3800 , 4br , 94558 , NAPA , house 
+$2800 , 2br , 94558 , NAPA , house 
+$2900 , 3br , 94558 , NAPA , house 
+$6000 , 2br , 94558 , NAPA , house 
+$2600 , 2br , 94558 , NAPA , house 
+$2500 , 3br , 94558 , NAPA , house 
+$2500 , 3br , 94558 , NAPA , house 
+$3150 , 4br , 94558 , NAPA , house 
+$19500 , 4br , 94558 , NAPA , house 
+$4000 , 3br , 94558 , NAPA , house 
+$2300 , 3br , 94558 , NAPA , house 
+$3700 , 4br , 94558 , NAPA , house 
+$2500 , 2br , 94558 , NAPA , house 
+$2695 , 3br , 94558 , NAPA , house 
+$3500 , 3br , 94558 , NAPA , house 
+$3000 , 3br , 94558 , NAPA , house 
+$2800 , 3br , 94558 , NAPA , house 
+$2600 , 3br , 94558 , NAPA , house 
+$3000 , 2br , 94558 , NAPA , house 
+$3500 , 2br , 94558 , NAPA , house 
+$3800 , 4br , 94558 , NAPA , house 
+$2500 , 2br , 94559 , NAPA , house 
+$1600 , 2br , 94559 , NAPA , house 
+$2900 , 3br , 94559 , NAPA , house 
+$2850 , 3br , 94559 , NAPA , house 
+$2300 , 3br , 94559 , NAPA , house 
+$2450 , 3br , 94559 , NAPA , house 
+$2400 , 3br , 94559 , NAPA , house 
+$2600 , 3br , 94559 , NAPA , house 
+$2800 , 3br , 94559 , NAPA , house 
+$2100 , 2br , 94559 , NAPA , house 
+$2900 , 3br , 94559 , NAPA , house 
+$2350 , 2br , 94559 , NAPA , house 
+$5480 , 4br , 94065 , REDWOOD CITY , house 
+$4600 , 3br , 94065 , REDWOOD CITY , house 
+$4600 , 3br , 94065 , REDWOOD CITY , house 
+$5500 , 4br , 94065 , REDWOOD CITY , house 
+$5200 , 4br , 94065 , REDWOOD CITY , house 
+$4700 , 3br , 94065 , REDWOOD CITY , house 
+$5500 , 4br , 94065 , REDWOOD CITY , house 
+$3950 , 3br , 94065 , REDWOOD CITY , house 
+$4800 , 4br , 94065 , REDWOOD CITY , house 
+$6500 , 4br , 94065 , REDWOOD CITY , house 
+$3495 , 3br , 94063 , REDWOOD CITY , house 
+$5500 , 4br , 94063 , REDWOOD CITY , house 
+$3950 , 3br , 94063 , REDWOOD CITY , house 
+$3350 , 2br , 94063 , REDWOOD CITY , house 
+$1700 , 1br , 94063 , REDWOOD CITY , house 
+$1500 , 1br , 94063 , REDWOOD CITY , house 
+$3995 , 3br , 94063 , REDWOOD CITY , house 
+$3950 , 3br , 94063 , REDWOOD CITY , house 
+$4200 , 3br , 94063 , REDWOOD CITY , house 
+$900 , 1br , 94063 , REDWOOD CITY , house 
+$900 , 1br , 94063 , REDWOOD CITY , house 
+$8400 , 4br , 94062 , REDWOOD CITY , house 
+$6000 , 4br , 94062 , REDWOOD CITY , house 
+$650 , 1br , 94062 , REDWOOD CITY , house 
+$50 , 1br , 94062 , REDWOOD CITY , house 
+$650 , 1br , 94062 , REDWOOD CITY , house 
+$6475 , 4br , 94062 , REDWOOD CITY , house 
+$2995 , 1br , 94062 , REDWOOD CITY , house 
+$2800 , 1br , 94062 , REDWOOD CITY , house 
+$2800 , 1br , 94062 , REDWOOD CITY , house 
+$6475 , 4br , 94062 , REDWOOD CITY , house 
+$1 , 2br , 94062 , REDWOOD CITY , house 
+$1850 , 2br , 94062 , REDWOOD CITY , house 
+$5200 , 3br , 94062 , REDWOOD CITY , house 
+$4000 , 3br , 94062 , REDWOOD CITY , house 
+$2500 , 1br , 94062 , REDWOOD CITY , house 
+$7200 , 4br , 94062 , REDWOOD CITY , house 
+$5500 , 4br , 94062 , REDWOOD CITY , house 
+$6788 , 4br , 94062 , REDWOOD CITY , house 
+$1800 , 1br , 94062 , REDWOOD CITY , house 
+$3700 , 3br , 94062 , REDWOOD CITY , house 
+$5800 , 3br , 94062 , REDWOOD CITY , house 
+$3000 , 1br , 94062 , REDWOOD CITY , house 
+$5200 , 3br , 94061 , REDWOOD CITY , house 
+$5500 , 3br , 94061 , REDWOOD CITY , house 
+$5995 , 4br , 94061 , REDWOOD CITY , house 
+$4800 , 3br , 94061 , REDWOOD CITY , house 
+$3975 , 3br , 94061 , REDWOOD CITY , house 
+$3650 , 2br , 94061 , REDWOOD CITY , house 
+$5800 , 4br , 94061 , REDWOOD CITY , house 
+$5200 , 3br , 94061 , REDWOOD CITY , house 
+$4750 , 3br , 94061 , REDWOOD CITY , house 
+$5100 , 3br , 94061 , REDWOOD CITY , house 
+$5100 , 3br , 94061 , REDWOOD CITY , house 
+$2888 , 2br , 94061 , REDWOOD CITY , house 
+$4500 , 4br , 94061 , REDWOOD CITY , house 
+$5988 , 4br , 94061 , REDWOOD CITY , house 
+$5588 , 3br , 94061 , REDWOOD CITY , house 
+$4688 , 3br , 94061 , REDWOOD CITY , house 
+$2500 , 3br , 94580 , SAN LORENZO , house 
+$2500 , 3br , 94580 , SAN LORENZO , house 
+$2610 , 3br , 94580 , SAN LORENZO , house 
+$2490 , 2br , 94580 , SAN LORENZO , house 
+$2490 , 2br , 94580 , SAN LORENZO , house 
+$2995 , 4br , 94580 , SAN LORENZO , house 
+$2700 , 3br , 94580 , SAN LORENZO , house 
+$2610 , 3br , 94580 , SAN LORENZO , house 
+$2300 , 2br , 94580 , SAN LORENZO , house 
+$5750 , 3br , 94965 , SAUSALITO , house 
+$9000 , 2br , 94965 , SAUSALITO , house 
+$10500 , 4br , 94965 , SAUSALITO , house 
+$7000 , 3br , 94965 , SAUSALITO , house 
+$8500 , 3br , 94965 , SAUSALITO , house 
+$11000 , 4br , 94965 , SAUSALITO , house 
+$3500 , 2br , 94965 , SAUSALITO , house 
+$10000 , 3br , 94965 , SAUSALITO , house 
+$4200 , 2br , 94965 , SAUSALITO , house 
+$13449 , 3br , 94965 , SAUSALITO , house 
+$8500 , 4br , 94549 , LAFAYETTE , house 
+$6650 , 4br , 94549 , LAFAYETTE , house 
+$7000 , 4br , 94549 , LAFAYETTE , house 
+$6650 , 4br , 94549 , LAFAYETTE , house 
+$4950 , 3br , 94549 , LAFAYETTE , house 
+$4880 , 4br , 94549 , LAFAYETTE , house 
+$6795 , 4br , 94549 , LAFAYETTE , house 
+$4350 , 3br , 94549 , LAFAYETTE , house 
+$8950 , 4br , 94549 , LAFAYETTE , house 
+$6800 , 3br , 94549 , LAFAYETTE , house 
+$5300 , 4br , 94549 , LAFAYETTE , house 
+$1895 , 3br , 94585 , SUISUN CITY , house 
+$1875 , 3br , 94585 , SUISUN CITY , house 
+$1775 , 3br , 94585 , SUISUN CITY , house 
+$2 , 2br , 94553 , MARTINEZ , house 
+$2200 , 2br , 94553 , MARTINEZ , house 
+$3000 , 3br , 94553 , MARTINEZ , house 
+$3200 , 4br , 94553 , MARTINEZ , house 
+$2500 , 3br , 94553 , MARTINEZ , house 
+$2600 , 4br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2450 , 2br , 94553 , MARTINEZ , house 
+$2900 , 4br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2040 , 3br , 94553 , MARTINEZ , house 
+$2040 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2040 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$3000 , 3br , 94553 , MARTINEZ , house 
+$3000 , 3br , 94553 , MARTINEZ , house 
+$2040 , 3br , 94553 , MARTINEZ , house 
+$2040 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$2055 , 3br , 94553 , MARTINEZ , house 
+$3200 , 4br , 94553 , MARTINEZ , house 
+$3100 , 3br , 94553 , MARTINEZ , house 
+$2275 , 2br , 94553 , MARTINEZ , house 
+$1500 , 3br , 94015 , DALY CITY , house 
+$1350 , 1br , 94015 , DALY CITY , house 
+$3095 , 3br , 94015 , DALY CITY , house 
+$4900 , 4br , 94015 , DALY CITY , house 
+$4000 , 5br , 94015 , DALY CITY , house 
+$3700 , 3br , 94015 , DALY CITY , house 
+$4095 , 4br , 94015 , DALY CITY , house 
+$4095 , 4br , 94015 , DALY CITY , house 
+$3800 , 3br , 94015 , DALY CITY , house 
+$1130 , 1br , 94015 , DALY CITY , house 
+$1180 , 1br , 94015 , DALY CITY , house 
+$3800 , 4br , 94015 , DALY CITY , house 
+$2850 , 2br , 94015 , DALY CITY , house 
+$3800 , 4br , 94015 , DALY CITY , house 
+$3900 , 4br , 94015 , DALY CITY , house 
+$3350 , 3br , 94015 , DALY CITY , house 
+$1000 , 1br , 94015 , DALY CITY , house 
+$3500 , 2br , 94015 , DALY CITY , house 
+$3500 , 4br , 94015 , DALY CITY , house 
+$3700 , 3br , 94015 , DALY CITY , house 
+$5000 , 3br , 94015 , DALY CITY , house 
+$3400 , 3br , 94015 , DALY CITY , house 
+$2950 , 3br , 94015 , DALY CITY , house 
+$3800 , 4br , 94015 , DALY CITY , house 
+$4700 , 4br , 94015 , DALY CITY , house 
+$4500 , 5br , 94015 , DALY CITY , house 
+$3000 , 2br , 94014 , DALY CITY , house 
+$10 , 3br , 94014 , DALY CITY , house 
+$4499 , 3br , 94014 , DALY CITY , house 
+$3600 , 4br , 94014 , DALY CITY , house 
+$3600 , 4br , 94014 , DALY CITY , house 
+$10 , 3br , 94014 , DALY CITY , house 
+$4499 , 3br , 94014 , DALY CITY , house 
+$3200 , 2br , 94014 , DALY CITY , house 
+$3200 , 2br , 94014 , DALY CITY , house 
+$2800 , 1br , 94014 , DALY CITY , house 
+$2800 , 1br , 94014 , DALY CITY , house 
+$1295 , 1br , 94014 , DALY CITY , house 
+$1295 , 1br , 94014 , DALY CITY , house 
+$3650 , 3br , 94014 , DALY CITY , house 
+$3495 , 2br , 94014 , DALY CITY , house 
+$3600 , 3br , 94014 , DALY CITY , house 
+$3800 , 3br , 94014 , DALY CITY , house 
+$3800 , 3br , 94014 , DALY CITY , house 
+$850 , 1br , 94014 , DALY CITY , house 
+$850 , 1br , 94014 , DALY CITY , house 
+$4750 , 4br , 94014 , DALY CITY , house 
+$3600 , 3br , 94014 , DALY CITY , house 
+$3900 , 3br , 94014 , DALY CITY , house 
+$2600 , 2br , 94014 , DALY CITY , house 
+$1270 , 3br , 94014 , DALY CITY , house 
+$4350 , 4br , 94014 , DALY CITY , house 
+$3495 , 2br , 94014 , DALY CITY , house 
+$4100 , 3br , 94014 , DALY CITY , house 
+$2200 , 2br , 94014 , DALY CITY , house 
+$3600 , 3br , 94014 , DALY CITY , house 
+$3500 , 3br , 94014 , DALY CITY , house 
+$10 , 3br , 94014 , DALY CITY , house 
+$4499 , 3br , 94014 , DALY CITY , house 
+$10 , 3br , 94014 , DALY CITY , house 
+$4499 , 3br , 94014 , DALY CITY , house 
+$10 , 3br , 94014 , DALY CITY , house 
+$4499 , 3br , 94014 , DALY CITY , house 
+$2500 , 2br , 94014 , DALY CITY , house 
+$2500 , 2br , 94014 , DALY CITY , house 
+$2850 , 4br , 94803 , EL SOBRANTE , house 
+$2900 , 4br , 94803 , EL SOBRANTE , house 
+$3250 , 5br , 94803 , EL SOBRANTE , house 
+$2272 , 3br , 94803 , EL SOBRANTE , house 
+$2800 , 4br , 94803 , EL SOBRANTE , house 
+$2100 , 3br , 94803 , EL SOBRANTE , house 
+$2600 , 3br , 94803 , EL SOBRANTE , house 
+$3475 , 4br , 94803 , EL SOBRANTE , house 
+$2800 , 3br , 94803 , EL SOBRANTE , house 
+$2360 , 3br , 94520 , CONCORD , house 
+$3300 , 4br , 94520 , CONCORD , house 
+$2375 , 3br , 94520 , CONCORD , house 
+$1980 , 3br , 94520 , CONCORD , house 
+$2745 , 4br , 94520 , CONCORD , house 
+$3395 , 3br , 94520 , CONCORD , house 
+$3375 , 4br , 94520 , CONCORD , house 
+$2400 , 3br , 94520 , CONCORD , house 
+$2045 , 4br , 94520 , CONCORD , house 
+$2030 , 4br , 94521 , CONCORD , house 
+$2895 , 4br , 94521 , CONCORD , house 
+$1700 , 2br , 94521 , CONCORD , house 
+$2000 , 3br , 94521 , CONCORD , house 
+$1895 , 3br , 94521 , CONCORD , house 
+$3350 , 4br , 94521 , CONCORD , house 
+$2250 , 3br , 94521 , CONCORD , house 
+$2800 , 4br , 94521 , CONCORD , house 
+$2200 , 3br , 94521 , CONCORD , house 
+$2700 , 3br , 94521 , CONCORD , house 
+$2600 , 3br , 94521 , CONCORD , house 
+$3150 , 3br , 94521 , CONCORD , house 
+$2300 , 3br , 94519 , CONCORD , house 
+$3200 , 3br , 94519 , CONCORD , house 
+$1300 , 3br , 94519 , CONCORD , house 
+$1300 , 3br , 94519 , CONCORD , house 
+$1300 , 3br , 94519 , CONCORD , house 
+$2150 , 4br , 94519 , CONCORD , house 
+$2695 , 3br , 94519 , CONCORD , house 
+$3000 , 3br , 94519 , CONCORD , house 
+$3000 , 3br , 94519 , CONCORD , house 
+$2530 , 4br , 94519 , CONCORD , house 
+$3000 , 3br , 94519 , CONCORD , house 
+$2750 , 3br , 94519 , CONCORD , house 
+$3000 , 3br , 94519 , CONCORD , house 
+$1955 , 3br , 94519 , CONCORD , house 
+$2400 , 3br , 94519 , CONCORD , house 
+$3300 , 3br , 94519 , CONCORD , house 
+$1955 , 3br , 94519 , CONCORD , house 
+$1955 , 3br , 94519 , CONCORD , house 
+$1955 , 3br , 94519 , CONCORD , house 
+$1800 , 4br , 94518 , CONCORD , house 
+$3350 , 4br , 94518 , CONCORD , house 
+$3489 , 4br , 94518 , CONCORD , house 
+$800 , 3br , 94518 , CONCORD , house 
+$2495 , 3br , 94518 , CONCORD , house 
+$2800 , 4br , 94518 , CONCORD , house 
+$3175 , 4br , 94518 , CONCORD , house 
+$2500 , 3br , 94518 , CONCORD , house 
+$2500 , 4br , 94518 , CONCORD , house 
+$3488 , 4br , 94598 , WALNUT CREEK , house 
+$3300 , 4br , 94598 , WALNUT CREEK , house 
+$3800 , 3br , 94598 , WALNUT CREEK , house 
+$3800 , 4br , 94598 , WALNUT CREEK , house 
+$3600 , 3br , 94598 , WALNUT CREEK , house 
+$4700 , 5br , 94598 , WALNUT CREEK , house 
+$3800 , 2br , 94596 , WALNUT CREEK , house 
+$4600 , 4br , 94596 , WALNUT CREEK , house 
+$4300 , 3br , 94596 , WALNUT CREEK , house 
+$4300 , 4br , 94596 , WALNUT CREEK , house 
+$3500 , 2br , 94595 , WALNUT CREEK , house 
+$5999 , 4br , 94595 , WALNUT CREEK , house 
+$4000 , 2br , 95476 , SONOMA , house 
+$3250 , 2br , 95476 , SONOMA , house 
+$4000 , 2br , 95476 , SONOMA , house 
+$850 , 1br , 95476 , SONOMA , house 
+$850 , 1br , 95476 , SONOMA , house 
+$3800 , 3br , 95476 , SONOMA , house 
+$3000 , 2br , 95476 , SONOMA , house 
+$2500 , 2br , 95476 , SONOMA , house 
+$2150 , 2br , 95476 , SONOMA , house 
+$3500 , 4br , 95476 , SONOMA , house 
+$2495 , 3br , 95476 , SONOMA , house 
+$2500 , 2br , 95476 , SONOMA , house 
+$2600 , 3br , 95476 , SONOMA , house 
+$2250 , 2br , 95476 , SONOMA , house 
+$2 , 3br , 95476 , SONOMA , house 
+$2850 , 3br , 95476 , SONOMA , house 
+$2650 , 1br , 95476 , SONOMA , house 
+$2650 , 1br , 95476 , SONOMA , house 
+$2650 , 1br , 95476 , SONOMA , house 
+$2650 , 1br , 95476 , SONOMA , house 
+$4500 , 3br , 95476 , SONOMA , house 
+$2650 , 3br , 95476 , SONOMA , house 
+$3000 , 3br , 95476 , SONOMA , house 
+$2600 , 2br , 95476 , SONOMA , house 
+$2675 , 3br , 95476 , SONOMA , house 
+$3500 , 3br , 95476 , SONOMA , house 
+$3000 , 3br , 95476 , SONOMA , house 
+$2595 , 3br , 95476 , SONOMA , house 
+$2595 , 3br , 95476 , SONOMA , house 
+$2500 , 2br , 95476 , SONOMA , house 
+$3900 , 3br , 95476 , SONOMA , house 
+$2450 , 3br , 94564 , PINOLE , house 
+$2300 , 3br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$1795 , 3br , 94564 , PINOLE , house 
+$1795 , 3br , 94564 , PINOLE , house 
+$2595 , 3br , 94564 , PINOLE , house 
+$1800 , 2br , 94564 , PINOLE , house 
+$2600 , 3br , 94564 , PINOLE , house 
+$2600 , 3br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$1795 , 3br , 94564 , PINOLE , house 
+$2000 , 2br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$2270 , 4br , 94564 , PINOLE , house 
+$3000 , 4br , 94564 , PINOLE , house 
+$850 , 2br , 94587 , UNION CITY , house 
+$3500 , 3br , 94587 , UNION CITY , house 
+$3700 , 4br , 94587 , UNION CITY , house 
+$3700 , 5br , 94587 , UNION CITY , house 
+$6500 , 4br , 94587 , UNION CITY , house 
+$6500 , 4br , 94587 , UNION CITY , house 
+$3650 , 5br , 94587 , UNION CITY , house 
+$3650 , 4br , 94587 , UNION CITY , house 
+$3800 , 5br , 94587 , UNION CITY , house 
+$2990 , 3br , 94587 , UNION CITY , house 
+$6975 , 3br , 94920 , BELVEDERE TIBURON , house 
+$10000 , 3br , 94920 , BELVEDERE TIBURON , house 
+$7500 , 3br , 94920 , BELVEDERE TIBURON , house 
+$10500 , 4br , 94920 , BELVEDERE TIBURON , house 
+$5600 , 3br , 94920 , BELVEDERE TIBURON , house 
+$6975 , 3br , 94920 , BELVEDERE TIBURON , house 
+$5600 , 3br , 94920 , BELVEDERE TIBURON , house 
+$6500 , 1br , 94920 , BELVEDERE TIBURON , house 
+$24000 , 3br , 94920 , BELVEDERE TIBURON , house 
+$8000 , 4br , 94920 , BELVEDERE TIBURON , house 
+$1500 , 3br , 94523 , PLEASANT HILL , house 
+$3350 , 3br , 94523 , PLEASANT HILL , house 
+$2500 , 3br , 94523 , PLEASANT HILL , house 
+$3950 , 4br , 94523 , PLEASANT HILL , house 
+$3400 , 3br , 94523 , PLEASANT HILL , house 
+$3750 , 3br , 94523 , PLEASANT HILL , house 
+$3900 , 3br , 94523 , PLEASANT HILL , house 
+$3300 , 4br , 94523 , PLEASANT HILL , house 
+$3000 , 3br , 94523 , PLEASANT HILL , house 
+$2850 , 3br , 94523 , PLEASANT HILL , house 
+$3750 , 3br , 94523 , PLEASANT HILL , house 
+$2850 , 3br , 94523 , PLEASANT HILL , house 
+$2850 , 3br , 94523 , PLEASANT HILL , house 
+$3300 , 4br , 94523 , PLEASANT HILL , house 
+$1925 , 4br , 95620 , DIXON , house 
+$3 , 4br , 94089 , SUNNYVALE , house 
+$3350 , 4br , 94089 , SUNNYVALE , house 
+$3150 , 3br , 94089 , SUNNYVALE , house 
+$3150 , 3br , 94089 , SUNNYVALE , house 
+$4000 , 5br , 94089 , SUNNYVALE , house 
+$3 , 4br , 94089 , SUNNYVALE , house 
+$3350 , 4br , 94089 , SUNNYVALE , house 
+$3300 , 3br , 94089 , SUNNYVALE , house 
+$6480 , 5br , 94089 , SUNNYVALE , house 
+$4000 , 3br , 94089 , SUNNYVALE , house 
+$3995 , 3br , 94085 , SUNNYVALE , house 
+$6595 , 4br , 94085 , SUNNYVALE , house 
+$1300 , 1br , 94085 , SUNNYVALE , house 
+$3900 , 3br , 94085 , SUNNYVALE , house 
+$3000 , 3br , 94085 , SUNNYVALE , house 
+$1300 , 1br , 94085 , SUNNYVALE , house 
+$1300 , 1br , 94085 , SUNNYVALE , house 
+$3500 , 3br , 94085 , SUNNYVALE , house 
+$1345 , 1br , 94085 , SUNNYVALE , house 
+$4825 , 4br , 94086 , SUNNYVALE , house 
+$4825 , 4br , 94086 , SUNNYVALE , house 
+$4290 , 3br , 94086 , SUNNYVALE , house 
+$3950 , 3br , 94086 , SUNNYVALE , house 
+$4200 , 3br , 94086 , SUNNYVALE , house 
+$5500 , 5br , 94086 , SUNNYVALE , house 
+$3600 , 3br , 94086 , SUNNYVALE , house 
+$5000 , 3br , 94086 , SUNNYVALE , house 
+$2350 , 2br , 94086 , SUNNYVALE , house 
+$4000 , 3br , 94086 , SUNNYVALE , house 
+$3600 , 3br , 94086 , SUNNYVALE , house 
+$3995 , 3br , 94086 , SUNNYVALE , house 
+$3800 , 3br , 94086 , SUNNYVALE , house 
+$3995 , 3br , 94086 , SUNNYVALE , house 
+$4985 , 4br , 94086 , SUNNYVALE , house 
+$4375 , 3br , 94086 , SUNNYVALE , house 
+$3995 , 3br , 94086 , SUNNYVALE , house 
+$4800 , 4br , 94086 , SUNNYVALE , house 
+$3200 , 2br , 94086 , SUNNYVALE , house 
+$3150 , 3br , 94087 , SUNNYVALE , house 
+$4750 , 4br , 94087 , SUNNYVALE , house 
+$4400 , 3br , 94087 , SUNNYVALE , house 
+$4500 , 3br , 94087 , SUNNYVALE , house 
+$5500 , 4br , 94087 , SUNNYVALE , house 
+$4200 , 3br , 94087 , SUNNYVALE , house 
+$3150 , 3br , 94087 , SUNNYVALE , house 
+$7000 , 4br , 94087 , SUNNYVALE , house 
+$3000 , 3br , 94087 , SUNNYVALE , house 
+$3420 , 3br , 94087 , SUNNYVALE , house 
+$4300 , 3br , 94087 , SUNNYVALE , house 
+$4295 , 3br , 94087 , SUNNYVALE , house 
+$4750 , 4br , 94087 , SUNNYVALE , house 
+$4250 , 3br , 94087 , SUNNYVALE , house 
+$4750 , 4br , 94087 , SUNNYVALE , house 
+$5650 , 4br , 94087 , SUNNYVALE , house 
+$4500 , 4br , 94087 , SUNNYVALE , house 
+$4850 , 5br , 94087 , SUNNYVALE , house 
+$5695 , 4br , 94087 , SUNNYVALE , house 
+$3850 , 3br , 94087 , SUNNYVALE , house 
+$4995 , 4br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$4990 , 4br , 94087 , SUNNYVALE , house 
+$3800 , 3br , 94087 , SUNNYVALE , house 
+$5650 , 4br , 94087 , SUNNYVALE , house 
+$4400 , 3br , 94087 , SUNNYVALE , house 
+$4400 , 3br , 94087 , SUNNYVALE , house 
+$4500 , 3br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$4795 , 3br , 94087 , SUNNYVALE , house 
+$3150 , 3br , 94087 , SUNNYVALE , house 
+$5200 , 3br , 94087 , SUNNYVALE , house 
+$2000 , 1br , 94087 , SUNNYVALE , house 
+$4800 , 3br , 94087 , SUNNYVALE , house 
+$3800 , 3br , 94087 , SUNNYVALE , house 
+$5100 , 3br , 94925 , CORTE MADERA , house 
+$6100 , 5br , 94925 , CORTE MADERA , house 
+$6300 , 3br , 94925 , CORTE MADERA , house 
+$5250 , 3br , 94925 , CORTE MADERA , house 
+$5250 , 3br , 94925 , CORTE MADERA , house 
+$8450 , 4br , 94925 , CORTE MADERA , house 
+$8250 , 4br , 94925 , CORTE MADERA , house 
+$8750 , 4br , 94925 , CORTE MADERA , house 
+$6300 , 3br , 94925 , CORTE MADERA , house 
+$4500 , 3br , 94925 , CORTE MADERA , house 
+$4625 , 3br , 94925 , CORTE MADERA , house 
+$7250 , 3br , 94925 , CORTE MADERA , house 
+$6500 , 4br , 94925 , CORTE MADERA , house 
+$600 , 1br , 94025 , MENLO PARK , house 
+$600 , 1br , 94025 , MENLO PARK , house 
+$600 , 1br , 94025 , MENLO PARK , house 
+$3975 , 3br , 94025 , MENLO PARK , house 
+$3500 , 2br , 94025 , MENLO PARK , house 
+$5200 , 3br , 94025 , MENLO PARK , house 
+$7000 , 3br , 94025 , MENLO PARK , house 
+$13000 , 5br , 94025 , MENLO PARK , house 
+$9000 , 3br , 94025 , MENLO PARK , house 
+$3850 , 3br , 94025 , MENLO PARK , house 
+$5500 , 5br , 94025 , MENLO PARK , house 
+$9000 , 4br , 94025 , MENLO PARK , house 
+$10750 , 3br , 94025 , MENLO PARK , house 
+$6500 , 3br , 94025 , MENLO PARK , house 
+$5803 , 2br , 94025 , MENLO PARK , house 
+$12500 , 6br , 94025 , MENLO PARK , house 
+$4700 , 3br , 94025 , MENLO PARK , house 
+$5800 , 4br , 94025 , MENLO PARK , house 
+$6950 , 4br , 94025 , MENLO PARK , house 
+$3850 , 3br , 94025 , MENLO PARK , house 
+$5500 , 4br , 94025 , MENLO PARK , house 
+$13000 , 5br , 94025 , MENLO PARK , house 
+$4500 , 5br , 94025 , MENLO PARK , house 
+$3500 , 2br , 94025 , MENLO PARK , house 
+$5700 , 3br , 94025 , MENLO PARK , house 
+$2400 , 3br , 94503 , AMERICAN CANYON , house 
+$1475 , 2br , 94503 , AMERICAN CANYON , house 
+$2500 , 3br , 94503 , AMERICAN CANYON , house 
+$2800 , 4br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$900 , 2br , 94801 , RICHMOND , house 
+$2100 , 5br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2480 , 3br , 94801 , RICHMOND , house 
+$2495 , 3br , 94801 , RICHMOND , house 
+$3250 , 4br , 94805 , RICHMOND , house 
+$2600 , 3br , 94805 , RICHMOND , house 
+$2670 , 2br , 94805 , RICHMOND , house 
+$2595 , 3br , 94805 , RICHMOND , house 
+$2750 , 3br , 94805 , RICHMOND , house 
+$2400 , 3br , 94805 , RICHMOND , house 
+$2300 , 3br , 94804 , RICHMOND , house 
+$1950 , 2br , 94804 , RICHMOND , house 
+$2750 , 2br , 94804 , RICHMOND , house 
+$2100 , 3br , 94804 , RICHMOND , house 
+$2180 , 3br , 94804 , RICHMOND , house 
+$1180 , 3br , 94804 , RICHMOND , house 
+$2880 , 3br , 94804 , RICHMOND , house 
+$2880 , 3br , 94804 , RICHMOND , house 
+$2880 , 3br , 94804 , RICHMOND , house 
+$2880 , 3br , 94804 , RICHMOND , house 
+$2880 , 3br , 94804 , RICHMOND , house 
+$3500 , 4br , 94804 , RICHMOND , house 
+$6000 , 5br , 94804 , RICHMOND , house 
+$2180 , 3br , 94804 , RICHMOND , house 
+$2250 , 3br , 94804 , RICHMOND , house 
+$2180 , 3br , 94804 , RICHMOND , house 
+$2700 , 4br , 94804 , RICHMOND , house 
+$2450 , 3br , 94804 , RICHMOND , house 
+$2000 , 3br , 94804 , RICHMOND , house 
+$2180 , 3br , 94804 , RICHMOND , house 
+$3000 , 3br , 94954 , PETALUMA , house 
+$2900 , 2br , 94954 , PETALUMA , house 
+$2900 , 3br , 94954 , PETALUMA , house 
+$4000 , 4br , 94954 , PETALUMA , house 
+$3800 , 3br , 94954 , PETALUMA , house 
+$3400 , 4br , 94954 , PETALUMA , house 
+$2850 , 3br , 94954 , PETALUMA , house 
+$2800 , 3br , 94954 , PETALUMA , house 
+$2975 , 3br , 94954 , PETALUMA , house 
+$3000 , 3br , 94954 , PETALUMA , house 
+$2900 , 4br , 94954 , PETALUMA , house 
+$3250 , 3br , 94954 , PETALUMA , house 
+$3000 , 3br , 94954 , PETALUMA , house 
+$3750 , 5br , 94954 , PETALUMA , house 
+$2980 , 4br , 94954 , PETALUMA , house 
+$6000 , 3br , 94022 , LOS ALTOS , house 
+$7995 , 4br , 94022 , LOS ALTOS , house 
+$13995 , 6br , 94022 , LOS ALTOS , house 
+$7950 , 4br , 94022 , LOS ALTOS , house 
+$5400 , 3br , 94022 , LOS ALTOS , house 
+$8200 , 3br , 94022 , LOS ALTOS , house 
+$8200 , 3br , 94022 , LOS ALTOS , house 
+$7500 , 4br , 94022 , LOS ALTOS , house 
+$7450 , 5br , 94022 , LOS ALTOS , house 
+$8500 , 4br , 94022 , LOS ALTOS , house 
+$16500 , 5br , 94022 , LOS ALTOS , house 
+$29000 , 7br , 94022 , LOS ALTOS , house 
+$1595 , 1br , 94024 , LOS ALTOS , house 
+$1595 , 1br , 94024 , LOS ALTOS , house 
+$6875 , 3br , 94024 , LOS ALTOS , house 
+$6900 , 5br , 94024 , LOS ALTOS , house 
+$7895 , 5br , 94024 , LOS ALTOS , house 
+$8500 , 4br , 94024 , LOS ALTOS , house 
+$1595 , 1br , 94024 , LOS ALTOS , house 
+$4695 , 2br , 94024 , LOS ALTOS , house 
+$4450 , 3br , 94024 , LOS ALTOS , house 
+$23000 , 5br , 94024 , LOS ALTOS , house 
+$7980 , 4br , 94024 , LOS ALTOS , house 
+$5200 , 3br , 94024 , LOS ALTOS , house 
+$5400 , 4br , 94024 , LOS ALTOS , house 
+$6875 , 3br , 94024 , LOS ALTOS , house 
+$6600 , 3br , 94024 , LOS ALTOS , house 
+$6600 , 3br , 94024 , LOS ALTOS , house 
+$20000 , 4br , 94024 , LOS ALTOS , house 
+$8250 , 4br , 94024 , LOS ALTOS , house 
+$5250 , 4br , 94024 , LOS ALTOS , house 
+$7950 , 4br , 94024 , LOS ALTOS , house 
+$5250 , 3br , 94024 , LOS ALTOS , house 
+$6875 , 3br , 94024 , LOS ALTOS , house 
+$10000 , 4br , 94027 , ATHERTON , house 
+$28500 , 6br , 94027 , ATHERTON , house 
+$3900 , 1br , 94027 , ATHERTON , house 
+$8300 , 4br , 94027 , ATHERTON , house 
+$7980 , 4br , 94027 , ATHERTON , house 
+$3950 , 2br , 94027 , ATHERTON , house 
+$9800 , 4br , 94027 , ATHERTON , house 
+$16000 , 5br , 94027 , ATHERTON , house 
+$3750 , 3br , 94005 , BRISBANE , house 
+$6990 , 4br , 94904 , GREENBRAE , house 
+$7900 , 3br , 94904 , GREENBRAE , house 
+$6990 , 4br , 94904 , GREENBRAE , house 
+$9850 , 5br , 94904 , GREENBRAE , house 
+$11500 , 5br , 94904 , GREENBRAE , house 
+$6900 , 4br , 94904 , GREENBRAE , house 
+$12000 , 5br , 94904 , GREENBRAE , house 
+$11900 , 5br , 94904 , GREENBRAE , house 
+$11500 , 5br , 94904 , GREENBRAE , house 
+$11900 , 5br , 94904 , GREENBRAE , house 
+$11900 , 5br , 94904 , GREENBRAE , house 
+$11900 , 5br , 94904 , GREENBRAE , house 
+$9700 , 4br , 94904 , GREENBRAE , house 
+$4700 , 4br , 94949 , NOVATO , house 
+$4795 , 4br , 94949 , NOVATO , house 
+$4700 , 4br , 94949 , NOVATO , house 
+$5000 , 4br , 94949 , NOVATO , house 
+$3650 , 3br , 94949 , NOVATO , house 
+$3550 , 3br , 94945 , NOVATO , house 
+$3550 , 3br , 94945 , NOVATO , house 
+$3395 , 3br , 94945 , NOVATO , house 
+$3000 , 3br , 94945 , NOVATO , house 
+$3000 , 3br , 94945 , NOVATO , house 
+$3500 , 3br , 94947 , NOVATO , house 
+$4995 , 4br , 94947 , NOVATO , house 
+$3550 , 3br , 94947 , NOVATO , house 
+$3195 , 3br , 94947 , NOVATO , house 
+$3395 , 4br , 94947 , NOVATO , house 
+$3300 , 3br , 94947 , NOVATO , house 
+$3550 , 3br , 94947 , NOVATO , house 
+$3500 , 3br , 94947 , NOVATO , house 
+$3900 , 3br , 94947 , NOVATO , house 
+$1690 , 3br , 94572 , RODEO , house 
+$1845 , 3br , 94572 , RODEO , house 
+$1950 , 4br , 94572 , RODEO , house 
+$1680 , 3br , 94572 , RODEO , house 
+$1950 , 4br , 94572 , RODEO , house 
+$1680 , 3br , 94572 , RODEO , house 
+$1680 , 3br , 94572 , RODEO , house 
+$2000 , 2br , 94572 , RODEO , house 
+$1845 , 3br , 94572 , RODEO , house 
+$1680 , 3br , 94572 , RODEO , house 
+$1950 , 4br , 94572 , RODEO , house 
+$1680 , 3br , 94572 , RODEO , house 
+$2700 , 3br , 94806 , SAN PABLO , house 
+$1850 , 2br , 94806 , SAN PABLO , house 
+$2000 , 2br , 94806 , SAN PABLO , house 
+$2800 , 3br , 94806 , SAN PABLO , house 
+$2700 , 3br , 94806 , SAN PABLO , house 
+$2095 , 2br , 94806 , SAN PABLO , house 
+$2325 , 3br , 94806 , SAN PABLO , house 
+$4000 , 2br , 94941 , MILL VALLEY , house 
+$2900 , 1br , 94941 , MILL VALLEY , house 
+$5500 , 3br , 94941 , MILL VALLEY , house 
+$11000 , 3br , 94941 , MILL VALLEY , house 
+$3600 , 2br , 94941 , MILL VALLEY , house 
+$6000 , 4br , 94941 , MILL VALLEY , house 
+$4300 , 4br , 94941 , MILL VALLEY , house 
+$7950 , 4br , 94941 , MILL VALLEY , house 
+$5850 , 4br , 94941 , MILL VALLEY , house 
+$8750 , 3br , 94941 , MILL VALLEY , house 
+$4250 , 3br , 94941 , MILL VALLEY , house 
+$4250 , 3br , 94941 , MILL VALLEY , house 
+$4250 , 3br , 94941 , MILL VALLEY , house 
+$4250 , 3br , 94941 , MILL VALLEY , house 
+$8500 , 4br , 94941 , MILL VALLEY , house 
+$6200 , 4br , 94941 , MILL VALLEY , house 
+$5350 , 3br , 94941 , MILL VALLEY , house 
+$5900 , 4br , 94941 , MILL VALLEY , house 
+$7250 , 3br , 94941 , MILL VALLEY , house 
+$5500 , 3br , 94941 , MILL VALLEY , house 
+$6995 , 3br , 94941 , MILL VALLEY , house 
+$8500 , 3br , 94941 , MILL VALLEY , house 
+$6750 , 3br , 94941 , MILL VALLEY , house 
+$7000 , 4br , 94941 , MILL VALLEY , house 
+$6750 , 3br , 94941 , MILL VALLEY , house 
+$6995 , 5br , 94941 , MILL VALLEY , house 
+$5500 , 4br , 94941 , MILL VALLEY , house 
+$3350 , 2br , 94941 , MILL VALLEY , house 
+$6700 , 4br , 94941 , MILL VALLEY , house 
+$6995 , 5br , 94941 , MILL VALLEY , house 
+$5800 , 3br , 94941 , MILL VALLEY , house 
+$6100 , 2br , 94941 , MILL VALLEY , house 
+$4950 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4950 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4150 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4200 , 3br , 94043 , MOUNTAIN VIEW , house 
+$5990 , 3br , 94043 , MOUNTAIN VIEW , house 
+$5990 , 3br , 94043 , MOUNTAIN VIEW , house 
+$5990 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4495 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4895 , 4br , 94043 , MOUNTAIN VIEW , house 
+$3995 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4795 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4795 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4795 , 3br , 94043 , MOUNTAIN VIEW , house 
+$4795 , 3br , 94043 , MOUNTAIN VIEW , house 
+$3600 , 3br , 94040 , MOUNTAIN VIEW , house 
+$5500 , 4br , 94040 , MOUNTAIN VIEW , house 
+$2600 , 1br , 94040 , MOUNTAIN VIEW , house 
+$5300 , 3br , 94040 , MOUNTAIN VIEW , house 
+$6400 , 4br , 94040 , MOUNTAIN VIEW , house 
+$3580 , 2br , 94040 , MOUNTAIN VIEW , house 
+$6750 , 4br , 94040 , MOUNTAIN VIEW , house 
+$5500 , 4br , 94040 , MOUNTAIN VIEW , house 
+$5495 , 3br , 94040 , MOUNTAIN VIEW , house 
+$4600 , 3br , 94040 , MOUNTAIN VIEW , house 
+$6650 , 4br , 94040 , MOUNTAIN VIEW , house 
+$5800 , 3br , 94040 , MOUNTAIN VIEW , house 
+$5500 , 4br , 94040 , MOUNTAIN VIEW , house 
+$4650 , 3br , 94040 , MOUNTAIN VIEW , house 
+$4 , 4br , 94568 , DUBLIN , house 
+$4750 , 4br , 94568 , DUBLIN , house 
+$4400 , 5br , 94568 , DUBLIN , house 
+$3750 , 4br , 94568 , DUBLIN , house 
+$3795 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$2800 , 3br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4400 , 5br , 94568 , DUBLIN , house 
+$4400 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$4000 , 4br , 94568 , DUBLIN , house 
+$3390 , 4br , 94568 , DUBLIN , house 
+$4580 , 4br , 94568 , DUBLIN , house 
+$4450 , 5br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$4500 , 4br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$4500 , 4br , 94583 , SAN RAMON , house 
+$5000 , 6br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$4750 , 4br , 94583 , SAN RAMON , house 
+$3400 , 4br , 94583 , SAN RAMON , house 
+$3750 , 4br , 94583 , SAN RAMON , house 
+$5500 , 5br , 94583 , SAN RAMON , house 
+$3000 , 2br , 94601 , OAKLAND , house 
+$3200 , 3br , 94601 , OAKLAND , house 
+$3200 , 3br , 94601 , OAKLAND , house 
+$3200 , 4br , 94601 , OAKLAND , house 
+$3500 , 3br , 94601 , OAKLAND , house 
+$3200 , 3br , 94601 , OAKLAND , house 
+$2675 , 2br , 94601 , OAKLAND , house 
+$8200 , 4br , 94611 , OAKLAND , house 
+$6950 , 5br , 94611 , OAKLAND , house 
+$6950 , 5br , 94611 , OAKLAND , house 
+$6950 , 5br , 94611 , OAKLAND , house 
+$6950 , 5br , 94611 , OAKLAND , house 
+$4100 , 3br , 94611 , OAKLAND , house 
+$5950 , 4br , 94611 , OAKLAND , house 
+$5250 , 3br , 94611 , OAKLAND , house 
+$7000 , 3br , 94611 , OAKLAND , house 
+$4395 , 2br , 94611 , OAKLAND , house 
+$4850 , 3br , 94611 , OAKLAND , house 
+$4650 , 4br , 94611 , OAKLAND , house 
+$5250 , 4br , 94611 , OAKLAND , house 
+$5195 , 3br , 94611 , OAKLAND , house 
+$4980 , 3br , 94611 , OAKLAND , house 
+$5000 , 3br , 94611 , OAKLAND , house 
+$3500 , 3br , 94611 , OAKLAND , house 
+$7700 , 4br , 94611 , OAKLAND , house 
+$7700 , 4br , 94611 , OAKLAND , house 
+$5000 , 3br , 94611 , OAKLAND , house 
+$5000 , 3br , 94611 , OAKLAND , house 
+$7500 , 4br , 94611 , OAKLAND , house 
+$7000 , 3br , 94611 , OAKLAND , house 
+$7000 , 3br , 94611 , OAKLAND , house 
+$6245 , 4br , 94611 , OAKLAND , house 
+$7700 , 4br , 94611 , OAKLAND , house 
+$2200 , 2br , 94618 , OAKLAND , house 
+$5600 , 4br , 94618 , OAKLAND , house 
+$6500 , 4br , 94618 , OAKLAND , house 
+$5900 , 3br , 94618 , OAKLAND , house 
+$5200 , 4br , 94618 , OAKLAND , house 
+$5600 , 3br , 94618 , OAKLAND , house 
+$9500 , 6br , 94618 , OAKLAND , house 
+$4595 , 3br , 94618 , OAKLAND , house 
+$4000 , 2br , 94618 , OAKLAND , house 
+$3950 , 3br , 94618 , OAKLAND , house 
+$4500 , 2br , 94618 , OAKLAND , house 
+$2150 , 1br , 94609 , OAKLAND , house 
+$3250 , 2br , 94609 , OAKLAND , house 
+$3475 , 2br , 94609 , OAKLAND , house 
+$3950 , 2br , 94609 , OAKLAND , house 
+$3030 , 2br , 94609 , OAKLAND , house 
+$3030 , 2br , 94609 , OAKLAND , house 
+$3300 , 2br , 94609 , OAKLAND , house 
+$3300 , 2br , 94609 , OAKLAND , house 
+$3300 , 2br , 94609 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$2900 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1200 , 1br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$3995 , 4br , 94607 , OAKLAND , house 
+$1695 , 1br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$6000 , 4br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 2br , 94607 , OAKLAND , house 
+$1895 , 1br , 94607 , OAKLAND , house 
+$600 , 1br , 94610 , OAKLAND , house 
+$600 , 1br , 94610 , OAKLAND , house 
+$600 , 1br , 94610 , OAKLAND , house 
+$600 , 1br , 94610 , OAKLAND , house 
+$4400 , 3br , 94610 , OAKLAND , house 
+$3650 , 2br , 94610 , OAKLAND , house 
+$4400 , 3br , 94610 , OAKLAND , house 
+$3600 , 2br , 94602 , OAKLAND , house 
+$4500 , 3br , 94602 , OAKLAND , house 
+$2599 , 2br , 94602 , OAKLAND , house 
+$810 , 1br , 94602 , OAKLAND , house 
+$3650 , 2br , 94602 , OAKLAND , house 
+$4500 , 3br , 94602 , OAKLAND , house 
+$6990 , 5br , 94602 , OAKLAND , house 
+$2300 , 2br , 94602 , OAKLAND , house 
+$3700 , 2br , 94602 , OAKLAND , house 
+$2800 , 2br , 94602 , OAKLAND , house 
+$4500 , 3br , 94602 , OAKLAND , house 
+$2800 , 3br , 94612 , OAKLAND , house 
+$2800 , 2br , 94612 , OAKLAND , house 
+$3000 , 3br , 94606 , OAKLAND , house 
+$800 , 1br , 94606 , OAKLAND , house 
+$4750 , 4br , 94619 , OAKLAND , house 
+$3500 , 3br , 94619 , OAKLAND , house 
+$2695 , 3br , 94619 , OAKLAND , house 
+$3800 , 3br , 94619 , OAKLAND , house 
+$2800 , 3br , 94619 , OAKLAND , house 
+$2650 , 2br , 94619 , OAKLAND , house 
+$2250 , 2br , 94605 , OAKLAND , house 
+$3850 , 3br , 94605 , OAKLAND , house 
+$2250 , 2br , 94605 , OAKLAND , house 
+$2000 , 3br , 94605 , OAKLAND , house 
+$2850 , 2br , 94605 , OAKLAND , house 
+$2250 , 2br , 94605 , OAKLAND , house 
+$4000 , 5br , 94605 , OAKLAND , house 
+$2700 , 2br , 94605 , OAKLAND , house 
+$3500 , 2br , 94605 , OAKLAND , house 
+$3300 , 3br , 94605 , OAKLAND , house 
+$3000 , 4br , 94605 , OAKLAND , house 
+$2550 , 3br , 94605 , OAKLAND , house 
+$2500 , 3br , 94605 , OAKLAND , house 
+$3100 , 3br , 94605 , OAKLAND , house 
+$3100 , 3br , 94605 , OAKLAND , house 
+$2500 , 3br , 94605 , OAKLAND , house 
+$2490 , 3br , 94605 , OAKLAND , house 
+$3500 , 3br , 94605 , OAKLAND , house 
+$3500 , 3br , 94605 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$3 , 4br , 94621 , OAKLAND , house 
+$3500 , 4br , 94621 , OAKLAND , house 
+$1675 , 1br , 94621 , OAKLAND , house 
+$1800 , 1br , 94621 , OAKLAND , house 
+$2500 , 3br , 94621 , OAKLAND , house 
+$2295 , 2br , 94621 , OAKLAND , house 
+$2600 , 3br , 94621 , OAKLAND , house 
+$2345 , 2br , 94621 , OAKLAND , house 
+$2485 , 2br , 94621 , OAKLAND , house 
+$2500 , 3br , 94621 , OAKLAND , house 
+$2500 , 2br , 94603 , OAKLAND , house 
+$2950 , 3br , 94603 , OAKLAND , house 
+$1700 , 3br , 94603 , OAKLAND , house 
+$3200 , 3br , 94603 , OAKLAND , house 
+$3200 , 3br , 94603 , OAKLAND , house 
+$2995 , 4br , 94603 , OAKLAND , house 
+$3000 , 3br , 94603 , OAKLAND , house 
+$2245 , 4br , 94603 , OAKLAND , house 
+$2950 , 3br , 94603 , OAKLAND , house 
+$2995 , 3br , 94603 , OAKLAND , house 
+$2245 , 4br , 94603 , OAKLAND , house 
+$2245 , 4br , 94603 , OAKLAND , house 
+$2950 , 3br , 94603 , OAKLAND , house 
+$2400 , 2br , 94603 , OAKLAND , house 
+$2700 , 3br , 94603 , OAKLAND , house 
+$2550 , 2br , 94603 , OAKLAND , house 
+$2750 , 4br , 94603 , OAKLAND , house 
+$2600 , 3br , 94603 , OAKLAND , house 
+$2600 , 2br , 94603 , OAKLAND , house 
+$2670 , 3br , 94577 , SAN LEANDRO , house 
+$2700 , 2br , 94577 , SAN LEANDRO , house 
+$2100 , 1br , 94577 , SAN LEANDRO , house 
+$2500 , 2br , 94577 , SAN LEANDRO , house 
+$1900 , 2br , 94577 , SAN LEANDRO , house 
+$1900 , 2br , 94577 , SAN LEANDRO , house 
+$1900 , 2br , 94577 , SAN LEANDRO , house 
+$3300 , 3br , 94577 , SAN LEANDRO , house 
+$2600 , 3br , 94577 , SAN LEANDRO , house 
+$4500 , 6br , 94577 , SAN LEANDRO , house 
+$1900 , 2br , 94577 , SAN LEANDRO , house 
+$2395 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$900 , 2br , 94578 , SAN LEANDRO , house 
+$1695 , 1br , 94578 , SAN LEANDRO , house 
+$2350 , 2br , 94578 , SAN LEANDRO , house 
+$2700 , 2br , 94578 , SAN LEANDRO , house 
+$2950 , 3br , 94578 , SAN LEANDRO , house 
+$2395 , 2br , 94578 , SAN LEANDRO , house 
+$3000 , 2br , 94578 , SAN LEANDRO , house 
+$3000 , 2br , 94578 , SAN LEANDRO , house 
+$2900 , 3br , 94578 , SAN LEANDRO , house 
+$2315 , 2br , 94579 , SAN LEANDRO , house 
+$2315 , 2br , 94579 , SAN LEANDRO , house 
+$950 , 1br , 94579 , SAN LEANDRO , house 
+$5000 , 4br , 94973 , WOODACRE , house 
+$5000 , 2br , 94973 , WOODACRE , house 
+$7500 , 5br , 94507 , ALAMO , house 
+$6200 , 4br , 94507 , ALAMO , house 
+$8000 , 6br , 94507 , ALAMO , house 
+$6200 , 5br , 94507 , ALAMO , house 
+$5995 , 4br , 94507 , ALAMO , house 
+$6250 , 3br , 94708 , BERKELEY , house 
+$5995 , 3br , 94708 , BERKELEY , house 
+$6500 , 5br , 94708 , BERKELEY , house 
+$4800 , 4br , 94708 , BERKELEY , house 
+$4500 , 4br , 94708 , BERKELEY , house 
+$6000 , 4br , 94708 , BERKELEY , house 
+$4900 , 3br , 94707 , BERKELEY , house 
+$4000 , 3br , 94707 , BERKELEY , house 
+$4550 , 2br , 94707 , BERKELEY , house 
+$5350 , 3br , 94707 , BERKELEY , house 
+$4350 , 3br , 94707 , BERKELEY , house 
+$1400 , 1br , 94707 , BERKELEY , house 
+$1400 , 1br , 94707 , BERKELEY , house 
+$1670 , 2br , 94710 , BERKELEY , house 
+$3600 , 2br , 94710 , BERKELEY , house 
+$3900 , 3br , 94709 , BERKELEY , house 
+$4500 , 2br , 94709 , BERKELEY , house 
+$1895 , 7br , 94709 , BERKELEY , house 
+$3800 , 2br , 94703 , BERKELEY , house 
+$3975 , 3br , 94703 , BERKELEY , house 
+$3800 , 2br , 94703 , BERKELEY , house 
+$4699 , 4br , 94703 , BERKELEY , house 
+$4500 , 3br , 94703 , BERKELEY , house 
+$4500 , 3br , 94703 , BERKELEY , house 
+$2695 , 1br , 94703 , BERKELEY , house 
+$700 , 1br , 94703 , BERKELEY , house 
+$1400 , 1br , 94703 , BERKELEY , house 
+$3500 , 2br , 94703 , BERKELEY , house 
+$800 , 2br , 94704 , BERKELEY , house 
+$4350 , 3br , 94704 , BERKELEY , house 
+$2750 , 2br , 94704 , BERKELEY , house 
+$5 , 7br , 94704 , BERKELEY , house 
+$3500 , 3br , 94704 , BERKELEY , house 
+$833 , 4br , 94704 , BERKELEY , house 
+$875 , 1br , 94704 , BERKELEY , house 
+$1000 , 1br , 94704 , BERKELEY , house 
+$2800 , 2br , 94702 , BERKELEY , house 
+$2200 , 2br , 94702 , BERKELEY , house 
+$2800 , 2br , 94702 , BERKELEY , house 
+$3800 , 3br , 94702 , BERKELEY , house 
+$4750 , 3br , 94702 , BERKELEY , house 
+$9000 , 5br , 94705 , BERKELEY , house 
+$1300 , 1br , 94705 , BERKELEY , house 
+$4070 , 3br , 94502 , ALAMEDA , house 
+$3700 , 3br , 94502 , ALAMEDA , house 
+$5000 , 3br , 94502 , ALAMEDA , house 
+$2400 , 3br , 94502 , ALAMEDA , house 
+$3400 , 4br , 94502 , ALAMEDA , house 
+$4800 , 4br , 94502 , ALAMEDA , house 
+$5000 , 3br , 94502 , ALAMEDA , house 
+$4750 , 4br , 94502 , ALAMEDA , house 
+$3695 , 4br , 94501 , ALAMEDA , house 
+$3800 , 3br , 94501 , ALAMEDA , house 
+$4600 , 3br , 94501 , ALAMEDA , house 
+$1900 , 1br , 94501 , ALAMEDA , house 
+$2100 , 2br , 94501 , ALAMEDA , house 
+$3500 , 2br , 94501 , ALAMEDA , house 
+$4500 , 4br , 94501 , ALAMEDA , house 
+$3500 , 3br , 94066 , SAN BRUNO , house 
+$3200 , 2br , 94066 , SAN BRUNO , house 
+$4700 , 3br , 94066 , SAN BRUNO , house 
+$3450 , 2br , 94066 , SAN BRUNO , house 
+$4000 , 3br , 94066 , SAN BRUNO , house 
+$4000 , 3br , 94066 , SAN BRUNO , house 
+$3875 , 3br , 94706 , ALBANY , house 
+$4 , 4br , 94706 , ALBANY , house 
+$4500 , 4br , 94706 , ALBANY , house 
+$4350 , 3br , 94706 , ALBANY , house 
+$2200 , 2br , 94706 , ALBANY , house 
+$3000 , 3br , 94555 , FREMONT , house 
+$3300 , 3br , 94555 , FREMONT , house 
+$1500 , 1br , 94555 , FREMONT , house 
+$3500 , 3br , 94555 , FREMONT , house 
+$3300 , 3br , 94555 , FREMONT , house 
+$3950 , 5br , 94555 , FREMONT , house 
+$4500 , 4br , 94555 , FREMONT , house 
+$3400 , 4br , 94555 , FREMONT , house 
+$3450 , 3br , 94555 , FREMONT , house 
+$3600 , 4br , 94555 , FREMONT , house 
+$3450 , 4br , 94555 , FREMONT , house 
+$3100 , 2br , 94555 , FREMONT , house 
+$3550 , 4br , 94555 , FREMONT , house 
+$3700 , 4br , 94555 , FREMONT , house 
+$3595 , 3br , 94555 , FREMONT , house 
+$3600 , 4br , 94555 , FREMONT , house 
+$3650 , 4br , 94555 , FREMONT , house 
+$3095 , 3br , 94555 , FREMONT , house 
+$3095 , 3br , 94555 , FREMONT , house 
+$4350 , 4br , 94536 , FREMONT , house 
+$3297 , 4br , 94536 , FREMONT , house 
+$2750 , 3br , 94536 , FREMONT , house 
+$3500 , 4br , 94536 , FREMONT , house 
+$5200 , 5br , 94536 , FREMONT , house 
+$3000 , 3br , 94536 , FREMONT , house 
+$3500 , 3br , 94536 , FREMONT , house 
+$3400 , 4br , 94536 , FREMONT , house 
+$3000 , 3br , 94536 , FREMONT , house 
+$3200 , 3br , 94536 , FREMONT , house 
+$3000 , 2br , 94536 , FREMONT , house 
+$3300 , 3br , 94536 , FREMONT , house 
+$3000 , 3br , 94536 , FREMONT , house 
+$3250 , 3br , 94536 , FREMONT , house 
+$3000 , 3br , 94536 , FREMONT , house 
+$7800 , 6br , 94539 , FREMONT , house 
+$4300 , 4br , 94539 , FREMONT , house 
+$1199 , 3br , 94539 , FREMONT , house 
+$1210 , 3br , 94539 , FREMONT , house 
+$3950 , 4br , 94539 , FREMONT , house 
+$800 , 3br , 94539 , FREMONT , house 
+$4199 , 4br , 94539 , FREMONT , house 
+$5685 , 5br , 94539 , FREMONT , house 
+$3825 , 3br , 94539 , FREMONT , house 
+$3600 , 3br , 94539 , FREMONT , house 
+$3600 , 3br , 94539 , FREMONT , house 
+$3100 , 3br , 94539 , FREMONT , house 
+$3200 , 3br , 94539 , FREMONT , house 
+$4300 , 4br , 94539 , FREMONT , house 
+$3275 , 3br , 94539 , FREMONT , house 
+$4400 , 4br , 94539 , FREMONT , house 
+$900 , 1br , 94539 , FREMONT , house 
+$3800 , 4br , 94539 , FREMONT , house 
+$5175 , 4br , 94539 , FREMONT , house 
+$4900 , 4br , 94539 , FREMONT , house 
+$5200 , 4br , 94539 , FREMONT , house 
+$5200 , 4br , 94539 , FREMONT , house 
+$3100 , 3br , 94539 , FREMONT , house 
+$3850 , 3br , 94539 , FREMONT , house 
+$3500 , 3br , 94539 , FREMONT , house 
+$3600 , 4br , 94539 , FREMONT , house 
+$3850 , 4br , 94539 , FREMONT , house 
+$3100 , 3br , 94539 , FREMONT , house 
+$3200 , 3br , 94539 , FREMONT , house 
+$3200 , 3br , 94539 , FREMONT , house 
+$4800 , 4br , 94539 , FREMONT , house 
+$5100 , 5br , 94539 , FREMONT , house 
+$3300 , 4br , 94539 , FREMONT , house 
+$3100 , 3br , 94538 , FREMONT , house 
+$3095 , 3br , 94538 , FREMONT , house 
+$3400 , 3br , 94538 , FREMONT , house 
+$2900 , 4br , 94538 , FREMONT , house 
+$2900 , 4br , 94538 , FREMONT , house 
+$3100 , 3br , 94538 , FREMONT , house 
+$2900 , 4br , 94538 , FREMONT , house 
+$3100 , 3br , 94538 , FREMONT , house 
+$3500 , 3br , 94538 , FREMONT , house 
+$2900 , 3br , 94538 , FREMONT , house 
+$3300 , 4br , 94538 , FREMONT , house 
+$3300 , 4br , 94538 , FREMONT , house 
+$2795 , 3br , 94538 , FREMONT , house 
+$2950 , 3br , 94538 , FREMONT , house 
+$1350 , 1br , 94538 , FREMONT , house 
+$4750 , 3br , 94538 , FREMONT , house 
+$3595 , 3br , 94538 , FREMONT , house 
+$3300 , 3br , 94538 , FREMONT , house 
+$3300 , 3br , 94538 , FREMONT , house 
+$2650 , 3br , 94538 , FREMONT , house 
+$2680 , 3br , 94538 , FREMONT , house 
+$3000 , 4br , 94538 , FREMONT , house 
+$3000 , 4br , 94538 , FREMONT , house 
+$2700 , 2br , 94538 , FREMONT , house 
+$2700 , 2br , 94538 , FREMONT , house 
+$2700 , 3br , 94538 , FREMONT , house 
+$3200 , 4br , 94538 , FREMONT , house 
+$3000 , 4br , 94538 , FREMONT , house 
+$2600 , 4br , 94517 , CLAYTON , house 
+$3300 , 4br , 94517 , CLAYTON , house 
+$1400 , 1br , 94038 , MOSS BEACH , house 
+$6500 , 3br , 94038 , MOSS BEACH , house 
+$3100 , 3br , 94550 , LIVERMORE , house 
+$4700 , 4br , 94550 , LIVERMORE , house 
+$3500 , 3br , 94550 , LIVERMORE , house 
+$2800 , 3br , 94550 , LIVERMORE , house 
+$3275 , 4br , 94550 , LIVERMORE , house 
+$2900 , 3br , 94550 , LIVERMORE , house 
+$3200 , 4br , 94550 , LIVERMORE , house 
+$2480 , 3br , 94550 , LIVERMORE , house 
+$2700 , 3br , 94550 , LIVERMORE , house 
+$3450 , 3br , 94550 , LIVERMORE , house 
+$2900 , 3br , 94550 , LIVERMORE , house 
+$4250 , 3br , 94550 , LIVERMORE , house 
+$3000 , 2br , 94525 , CROCKETT , house 
+$3600 , 3br , 94903 , SAN RAFAEL , house 
+$4700 , 3br , 94903 , SAN RAFAEL , house 
+$5500 , 4br , 94903 , SAN RAFAEL , house 
+$4500 , 4br , 94903 , SAN RAFAEL , house 
+$3950 , 4br , 94903 , SAN RAFAEL , house 
+$3500 , 3br , 94901 , SAN RAFAEL , house 
+$3100 , 2br , 94901 , SAN RAFAEL , house 
+$3400 , 3br , 94901 , SAN RAFAEL , house 
+$2995 , 2br , 94901 , SAN RAFAEL , house 
+$3795 , 3br , 94901 , SAN RAFAEL , house 
+$8000 , 5br , 94901 , SAN RAFAEL , house 
+$4300 , 4br , 94901 , SAN RAFAEL , house 
+$3600 , 2br , 94901 , SAN RAFAEL , house 
+$3650 , 3br , 94901 , SAN RAFAEL , house 
+$5750 , 4br , 94901 , SAN RAFAEL , house 
+$2970 , 2br , 94901 , SAN RAFAEL , house 
+$3600 , 3br , 94588 , PLEASANTON , house 
+$3700 , 4br , 94588 , PLEASANTON , house 
+$4250 , 4br , 94588 , PLEASANTON , house 
+$3900 , 3br , 94588 , PLEASANTON , house 
+$3350 , 3br , 94588 , PLEASANTON , house 
+$3100 , 4br , 94588 , PLEASANTON , house 
+$3200 , 3br , 94588 , PLEASANTON , house 
+$3380 , 3br , 94588 , PLEASANTON , house 
+$3175 , 3br , 94588 , PLEASANTON , house 
+$3175 , 3br , 94588 , PLEASANTON , house 
+$3500 , 3br , 94588 , PLEASANTON , house 
+$3800 , 4br , 94588 , PLEASANTON , house 
+$3300 , 3br , 94588 , PLEASANTON , house 
+$3000 , 3br , 94588 , PLEASANTON , house 
+$3700 , 4br , 94588 , PLEASANTON , house 
+$3595 , 3br , 94566 , PLEASANTON , house 
+$3100 , 2br , 94566 , PLEASANTON , house 
+$3300 , 4br , 94566 , PLEASANTON , house 
+$4700 , 4br , 94566 , PLEASANTON , house 
+$5000 , 4br , 94566 , PLEASANTON , house 
+$5200 , 5br , 94566 , PLEASANTON , house 
+$3700 , 3br , 94566 , PLEASANTON , house 
+$3650 , 3br , 94566 , PLEASANTON , house 
+$2800 , 2br , 94566 , PLEASANTON , house 
+$3975 , 4br , 94566 , PLEASANTON , house 
+$3750 , 3br , 94566 , PLEASANTON , house 
+$6000 , 4br , 94566 , PLEASANTON , house 
+$2950 , 3br , 94547 , HERCULES , house 
+$2800 , 4br , 94547 , HERCULES , house 
+$2800 , 4br , 94547 , HERCULES , house 
+$2165 , 3br , 94547 , HERCULES , house 
+$2165 , 3br , 94547 , HERCULES , house 
+$2500 , 3br , 94547 , HERCULES , house 
+$2165 , 3br , 94547 , HERCULES , house 
+$2850 , 4br , 94547 , HERCULES , house 
+$3500 , 4br , 94547 , HERCULES , house 
+$2800 , 3br , 94547 , HERCULES , house 
+$2165 , 3br , 94547 , HERCULES , house 
+$3500 , 3br , 94930 , FAIRFAX , house 
+$4400 , 3br , 94930 , FAIRFAX , house 
+$4650 , 3br , 94930 , FAIRFAX , house 
+$3750 , 2br , 94930 , FAIRFAX , house 
+$5200 , 3br , 94930 , FAIRFAX , house 
+$4795 , 4br , 94030 , MILLBRAE , house 
+$4250 , 3br , 94030 , MILLBRAE , house 
+$3995 , 3br , 94030 , MILLBRAE , house 
+$4500 , 3br , 94030 , MILLBRAE , house 
+$4500 , 4br , 94030 , MILLBRAE , house 
+$4500 , 4br , 94030 , MILLBRAE , house 
+$5500 , 5br , 94030 , MILLBRAE , house 
+$5700 , 3br , 94030 , MILLBRAE , house 
+$3000 , 1br , 94019 , HALF MOON BAY , house 
+$3800 , 3br , 94019 , HALF MOON BAY , house 
+$5600 , 4br , 94019 , HALF MOON BAY , house 
+$3600 , 2br , 94019 , HALF MOON BAY , house 
+$2945 , 5br , 94513 , BRENTWOOD , house 
+$2405 , 4br , 94513 , BRENTWOOD , house 
+$1800 , 2br , 94513 , BRENTWOOD , house 
+$2405 , 4br , 94513 , BRENTWOOD , house 
+$2400 , 3br , 94513 , BRENTWOOD , house 
+$1700 , 2br , 94513 , BRENTWOOD , house 
+$2100 , 3br , 94513 , BRENTWOOD , house 
+$1800 , 2br , 94513 , BRENTWOOD , house 
+$1995 , 3br , 94513 , BRENTWOOD , house 
+$2470 , 3br , 94513 , BRENTWOOD , house 
+$1805 , 3br , 94513 , BRENTWOOD , house 
+$1690 , 3br , 94513 , BRENTWOOD , house 
+$2450 , 3br , 94513 , BRENTWOOD , house 
+$2400 , 3br , 94513 , BRENTWOOD , house 
+$1995 , 3br , 94513 , BRENTWOOD , house 
+$1805 , 3br , 94513 , BRENTWOOD , house 
+$2470 , 3br , 94513 , BRENTWOOD , house 
+$2350 , 3br , 94513 , BRENTWOOD , house 
+$2550 , 4br , 94513 , BRENTWOOD , house 
+$1805 , 3br , 94513 , BRENTWOOD , house 
+$2470 , 3br , 94513 , BRENTWOOD , house 
+$3000 , 3br , 94513 , BRENTWOOD , house 
+$1995 , 3br , 94513 , BRENTWOOD , house 
+$1805 , 3br , 94513 , BRENTWOOD , house 
+$1805 , 3br , 94513 , BRENTWOOD , house 
+$2095 , 4br , 94565 , PITTSBURG , house 
+$2295 , 4br , 94565 , PITTSBURG , house 
+$1900 , 3br , 94565 , PITTSBURG , house 
+$2400 , 4br , 94565 , PITTSBURG , house 
+$2250 , 4br , 94565 , PITTSBURG , house 
+$1707 , 3br , 94565 , PITTSBURG , house 
+$1895 , 3br , 94565 , PITTSBURG , house 
+$2320 , 3br , 94565 , PITTSBURG , house 
+$2390 , 4br , 94565 , PITTSBURG , house 
+$2320 , 3br , 94565 , PITTSBURG , house 
+$2895 , 5br , 94565 , PITTSBURG , house 
+$2450 , 3br , 94565 , PITTSBURG , house 
+$2250 , 3br , 94565 , PITTSBURG , house 
+$1600 , 2br , 94565 , PITTSBURG , house 
+$1575 , 1br , 94565 , PITTSBURG , house 
+$2320 , 3br , 94565 , PITTSBURG , house 
+$2390 , 4br , 94565 , PITTSBURG , house 
+$2320 , 3br , 94565 , PITTSBURG , house 
+$1995 , 3br , 94565 , PITTSBURG , house 
+$1595 , 2br , 94565 , PITTSBURG , house 
+$2300 , 3br , 94565 , PITTSBURG , house 
+$2200 , 3br , 94565 , PITTSBURG , house 
+$2250 , 4br , 94565 , PITTSBURG , house 
+$2500 , 3br , 94565 , PITTSBURG , house 
+$2300 , 3br , 94565 , PITTSBURG , house 
+$3300 , 5br , 94565 , PITTSBURG , house 
+$1775 , 3br , 94565 , PITTSBURG , house 
+$2053 , 3br , 94565 , PITTSBURG , house 
+$2450 , 4br , 94565 , PITTSBURG , house 
+$4100 , 3br , 94002 , BELMONT , house 
+$4800 , 3br , 94002 , BELMONT , house 
+$4800 , 3br , 94002 , BELMONT , house 
+$5875 , 4br , 94002 , BELMONT , house 
+$3975 , 2br , 94002 , BELMONT , house 
+$4950 , 4br , 94002 , BELMONT , house 
+$5895 , 3br , 94002 , BELMONT , house 
+$5900 , 4br , 94002 , BELMONT , house 
+$3950 , 3br , 94002 , BELMONT , house 
+$4795 , 3br , 94002 , BELMONT , house 
+$2995 , 3br , 94546 , CASTRO VALLEY , house 
+$2975 , 2br , 94546 , CASTRO VALLEY , house 
+$2975 , 2br , 94546 , CASTRO VALLEY , house 
+$4300 , 5br , 94546 , CASTRO VALLEY , house 
+$1895 , 3br , 94546 , CASTRO VALLEY , house 
+$3195 , 3br , 94546 , CASTRO VALLEY , house 
+$3195 , 3br , 94546 , CASTRO VALLEY , house 
+$3195 , 3br , 94546 , CASTRO VALLEY , house 
+$3195 , 3br , 94546 , CASTRO VALLEY , house 
+$2750 , 3br , 94546 , CASTRO VALLEY , house 
+$3095 , 2br , 94546 , CASTRO VALLEY , house 
+$3100 , 3br , 94552 , CASTRO VALLEY , house 
+$3300 , 3br , 94552 , CASTRO VALLEY , house 
+$2000 , 3br , 94509 , ANTIOCH , house 
+$2000 , 3br , 94509 , ANTIOCH , house 
+$2100 , 4br , 94509 , ANTIOCH , house 
+$2195 , 6br , 94509 , ANTIOCH , house 
+$1857 , 3br , 94509 , ANTIOCH , house 
+$2295 , 3br , 94509 , ANTIOCH , house 
+$1780 , 4br , 94509 , ANTIOCH , house 
+$1780 , 4br , 94509 , ANTIOCH , house 
+$1780 , 4br , 94509 , ANTIOCH , house 
+$1895 , 3br , 94509 , ANTIOCH , house 
+$1550 , 2br , 94509 , ANTIOCH , house 
+$2200 , 5br , 94509 , ANTIOCH , house 
+$2100 , 3br , 94509 , ANTIOCH , house 
+$2100 , 3br , 94509 , ANTIOCH , house 
+$1995 , 4br , 94509 , ANTIOCH , house 
+$1995 , 3br , 94509 , ANTIOCH , house 
+$1975 , 3br , 94509 , ANTIOCH , house 
+$1780 , 4br , 94509 , ANTIOCH , house 
+$1780 , 4br , 94509 , ANTIOCH , house 
+$2300 , 3br , 94509 , ANTIOCH , house 
+$1900 , 3br , 94509 , ANTIOCH , house 
+$2500 , 4br , 94509 , ANTIOCH , house 
+$2400 , 4br , 94509 , ANTIOCH , house 
+$2400 , 4br , 94509 , ANTIOCH , house 
+$2300 , 3br , 94509 , ANTIOCH , house 
+$2350 , 4br , 94509 , ANTIOCH , house 
+$2225 , 4br , 94509 , ANTIOCH , house 
+$2350 , 4br , 94509 , ANTIOCH , house 
+$2295 , 4br , 94509 , ANTIOCH , house 
+$2150 , 3br , 94509 , ANTIOCH , house 
+$1975 , 3br , 94509 , ANTIOCH , house 
+$2500 , 5br , 94509 , ANTIOCH , house 
+$2150 , 3br , 94509 , ANTIOCH , house 
+$2295 , 4br , 94509 , ANTIOCH , house 
+$1550 , 3br , 94509 , ANTIOCH , house 
+$2700 , 5br , 94531 , ANTIOCH , house 
+$2400 , 4br , 94531 , ANTIOCH , house 
+$2100 , 3br , 94531 , ANTIOCH , house 
+$1740 , 4br , 94531 , ANTIOCH , house 
+$2300 , 3br , 94531 , ANTIOCH , house 
+$1960 , 4br , 94531 , ANTIOCH , house 
+$1700 , 3br , 94531 , ANTIOCH , house 
+$2000 , 3br , 94531 , ANTIOCH , house 
+$2350 , 3br , 94531 , ANTIOCH , house 
+$700 , 5br , 94531 , ANTIOCH , house 
+$850 , 4br , 94531 , ANTIOCH , house 
+$850 , 4br , 94531 , ANTIOCH , house 
+$1700 , 3br , 94531 , ANTIOCH , house 
+$2000 , 3br , 94531 , ANTIOCH , house 
+$1740 , 4br , 94531 , ANTIOCH , house 
+$1740 , 4br , 94531 , ANTIOCH , house 
+$2571 , 4br , 94531 , ANTIOCH , house 
+$2475 , 4br , 94531 , ANTIOCH , house 
+$2350 , 3br , 94531 , ANTIOCH , house 
+$4350 , 4br , 94526 , DANVILLE , house 
+$2800 , 3br , 94526 , DANVILLE , house 
+$3800 , 3br , 94526 , DANVILLE , house 
+$4700 , 4br , 94526 , DANVILLE , house 
+$3395 , 3br , 94526 , DANVILLE , house 
+$4800 , 4br , 94526 , DANVILLE , house 
+$6300 , 4br , 94526 , DANVILLE , house 
+$6895 , 3br , 94526 , DANVILLE , house 
+$3792 , 4br , 94526 , DANVILLE , house 
+$4000 , 3br , 94526 , DANVILLE , house 
+$5300 , 5br , 94506 , DANVILLE , house 
+$8500 , 4br , 94506 , DANVILLE , house 
+$2950 , 3br , 94591 , VALLEJO , house 
+$2900 , 5br , 94591 , VALLEJO , house 
+$1695 , 3br , 94591 , VALLEJO , house 
+$2700 , 3br , 94591 , VALLEJO , house 
+$2500 , 3br , 94591 , VALLEJO , house 
+$2875 , 4br , 94591 , VALLEJO , house 
+$2295 , 3br , 94591 , VALLEJO , house 
+$2295 , 3br , 94591 , VALLEJO , house 
+$2650 , 4br , 94591 , VALLEJO , house 
+$2200 , 3br , 94591 , VALLEJO , house 
+$2000 , 3br , 94589 , VALLEJO , house 
+$2000 , 3br , 94589 , VALLEJO , house 
+$2000 , 3br , 94589 , VALLEJO , house 
+$2195 , 3br , 94589 , VALLEJO , house 
+$2050 , 4br , 94589 , VALLEJO , house 
+$1895 , 3br , 94589 , VALLEJO , house 
+$1950 , 4br , 94589 , VALLEJO , house 
+$1950 , 4br , 94589 , VALLEJO , house 
+$1950 , 4br , 94589 , VALLEJO , house 
+$1950 , 4br , 94589 , VALLEJO , house 
+$1975 , 3br , 94589 , VALLEJO , house 
+$2295 , 3br , 94589 , VALLEJO , house 
+$2160 , 4br , 94589 , VALLEJO , house 
+$2200 , 3br , 94589 , VALLEJO , house 
+$2025 , 4br , 94589 , VALLEJO , house 
+$2000 , 3br , 94589 , VALLEJO , house 
+$1775 , 3br , 94589 , VALLEJO , house 
+$750 , 1br , 94590 , VALLEJO , house 
+$750 , 1br , 94590 , VALLEJO , house 
+$750 , 1br , 94590 , VALLEJO , house 
+$750 , 1br , 94590 , VALLEJO , house 
+$1875 , 2br , 94590 , VALLEJO , house 
+$1725 , 3br , 94590 , VALLEJO , house 
+$1895 , 3br , 94590 , VALLEJO , house 
+$900 , 2br , 94590 , VALLEJO , house 
+$900 , 2br , 94590 , VALLEJO , house 
+$1800 , 3br , 94590 , VALLEJO , house 
+$1700 , 2br , 94590 , VALLEJO , house 
+$1700 , 2br , 94590 , VALLEJO , house 
+$1700 , 2br , 94590 , VALLEJO , house 
+$2400 , 2br , 94590 , VALLEJO , house 
+$2075 , 4br , 94590 , VALLEJO , house 
+$4850 , 3br , 94960 , SAN ANSELMO , house 
+$6900 , 4br , 94960 , SAN ANSELMO , house 
+$6599 , 3br , 94960 , SAN ANSELMO , house 
+$7500 , 4br , 94960 , SAN ANSELMO , house 
+$6900 , 4br , 94960 , SAN ANSELMO , house 
+$4500 , 3br , 94960 , SAN ANSELMO , house 
+$6599 , 3br , 94960 , SAN ANSELMO , house 
+$14000 , 8br , 94301 , PALO ALTO , house 
+$5500 , 3br , 94301 , PALO ALTO , house 
+$2950 , 1br , 94301 , PALO ALTO , house 
+$13400 , 4br , 94301 , PALO ALTO , house 
+$8800 , 4br , 94301 , PALO ALTO , house 
+$8400 , 3br , 94301 , PALO ALTO , house 
+$12500 , 4br , 94301 , PALO ALTO , house 
+$6500 , 2br , 94301 , PALO ALTO , house 
+$11000 , 5br , 94301 , PALO ALTO , house 
+$6900 , 3br , 94301 , PALO ALTO , house 
+$9950 , 4br , 94301 , PALO ALTO , house 
+$3600 , 2br , 94301 , PALO ALTO , house 
+$8800 , 5br , 94301 , PALO ALTO , house 
+$8800 , 5br , 94301 , PALO ALTO , house 
+$8800 , 5br , 94301 , PALO ALTO , house 
+$8800 , 5br , 94301 , PALO ALTO , house 
+$11000 , 4br , 94301 , PALO ALTO , house 
+$6850 , 3br , 94301 , PALO ALTO , house 
+$4195 , 2br , 94301 , PALO ALTO , house 
+$12500 , 5br , 94301 , PALO ALTO , house 
+$6350 , 3br , 94301 , PALO ALTO , house 
+$1000 , 2br , 94303 , PALO ALTO , house 
+$1000 , 2br , 94303 , PALO ALTO , house 
+$1000 , 2br , 94303 , PALO ALTO , house 
+$1000 , 2br , 94303 , PALO ALTO , house 
+$1150 , 1br , 94303 , PALO ALTO , house 
+$4500 , 4br , 94303 , PALO ALTO , house 
+$5000 , 5br , 94303 , PALO ALTO , house 
+$3395 , 3br , 94303 , PALO ALTO , house 
+$3395 , 3br , 94303 , PALO ALTO , house 
+$4995 , 3br , 94303 , PALO ALTO , house 
+$5300 , 4br , 94303 , PALO ALTO , house 
+$5300 , 4br , 94303 , PALO ALTO , house 
+$5300 , 4br , 94303 , PALO ALTO , house 
+$9300 , 6br , 94303 , PALO ALTO , house 
+$5175 , 3br , 94303 , PALO ALTO , house 
+$2900 , 2br , 94303 , PALO ALTO , house 
+$5500 , 3br , 94303 , PALO ALTO , house 
+$6000 , 5br , 94303 , PALO ALTO , house 
+$6600 , 3br , 94303 , PALO ALTO , house 
+$6200 , 4br , 94303 , PALO ALTO , house 
+$4900 , 4br , 94303 , PALO ALTO , house 
+$15000 , 5br , 94303 , PALO ALTO , house 
+$6600 , 3br , 94303 , PALO ALTO , house 
+$3800 , 2br , 94303 , PALO ALTO , house 
+$4 , 4br , 94303 , PALO ALTO , house 
+$4800 , 4br , 94303 , PALO ALTO , house 
+$6500 , 3br , 94303 , PALO ALTO , house 
+$4500 , 3br , 94303 , PALO ALTO , house 
+$2695 , 2br , 94303 , PALO ALTO , house 
+$2695 , 2br , 94303 , PALO ALTO , house 
+$5380 , 3br , 94303 , PALO ALTO , house 
+$5200 , 4br , 94303 , PALO ALTO , house 
+$10500 , 5br , 94303 , PALO ALTO , house 
+$4700 , 4br , 94303 , PALO ALTO , house 
+$4100 , 2br , 94303 , PALO ALTO , house 
+$6200 , 3br , 94303 , PALO ALTO , house 
+$6950 , 4br , 94303 , PALO ALTO , house 
+$2750 , 2br , 94303 , PALO ALTO , house 
+$1000 , 2br , 94303 , PALO ALTO , house 
+$6300 , 3br , 94303 , PALO ALTO , house 
+$3600 , 3br , 94303 , PALO ALTO , house 
+$3600 , 3br , 94303 , PALO ALTO , house 
+$3900 , 3br , 94303 , PALO ALTO , house 
+$2700 , 2br , 94303 , PALO ALTO , house 
+$2000 , 1br , 94304 , PALO ALTO , house 
+$2750 , 1br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$10500 , 5br , 94306 , PALO ALTO , house 
+$900 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$6200 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4100 , 3br , 94306 , PALO ALTO , house 
+$4100 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$6500 , 3br , 94306 , PALO ALTO , house 
+$5900 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$4000 , 2br , 94306 , PALO ALTO , house 
+$1500 , 3br , 94306 , PALO ALTO , house 
+$1500 , 3br , 94306 , PALO ALTO , house 
+$1500 , 3br , 94306 , PALO ALTO , house 
+$4750 , 2br , 94306 , PALO ALTO , house 
+$7500 , 4br , 94306 , PALO ALTO , house 
+$3850 , 2br , 94306 , PALO ALTO , house 
+$5600 , 3br , 94306 , PALO ALTO , house 
+$1150 , 1br , 94306 , PALO ALTO , house 
+$5900 , 3br , 94306 , PALO ALTO , house 
+$4750 , 3br , 94306 , PALO ALTO , house 
+$5700 , 3br , 94306 , PALO ALTO , house 
+$6200 , 3br , 94306 , PALO ALTO , house 
+$4500 , 2br , 94306 , PALO ALTO , house 
+$6600 , 4br , 94306 , PALO ALTO , house 
+$5000 , 4br , 94306 , PALO ALTO , house 
+$4700 , 2br , 94306 , PALO ALTO , house 
+$4750 , 3br , 94306 , PALO ALTO , house 
+$5900 , 4br , 94306 , PALO ALTO , house 
+$4850 , 3br , 94306 , PALO ALTO , house 
+$4400 , 3br , 94306 , PALO ALTO , house 
+$1000 , 3br , 94306 , PALO ALTO , house 
+$1000 , 3br , 94306 , PALO ALTO , house 
+$1000 , 3br , 94306 , PALO ALTO , house 
+$5000 , 2br , 94401 , SAN MATEO , house 
+$2850 , 2br , 94401 , SAN MATEO , house 
+$800 , 2br , 94401 , SAN MATEO , house 
+$3650 , 3br , 94401 , SAN MATEO , house 
+$3850 , 3br , 94401 , SAN MATEO , house 
+$3600 , 3br , 94401 , SAN MATEO , house 
+$5250 , 4br , 94402 , SAN MATEO , house 
+$5800 , 3br , 94402 , SAN MATEO , house 
+$5800 , 3br , 94402 , SAN MATEO , house 
+$5695 , 4br , 94402 , SAN MATEO , house 
+$11500 , 5br , 94402 , SAN MATEO , house 
+$8900 , 4br , 94402 , SAN MATEO , house 
+$5750 , 3br , 94402 , SAN MATEO , house 
+$7200 , 5br , 94402 , SAN MATEO , house 
+$6500 , 3br , 94402 , SAN MATEO , house 
+$5400 , 4br , 94404 , SAN MATEO , house 
+$5500 , 4br , 94404 , SAN MATEO , house 
+$4950 , 4br , 94404 , SAN MATEO , house 
+$4150 , 3br , 94404 , SAN MATEO , house 
+$5000 , 5br , 94404 , SAN MATEO , house 
+$4800 , 4br , 94404 , SAN MATEO , house 
+$5700 , 3br , 94404 , SAN MATEO , house 
+$5700 , 3br , 94404 , SAN MATEO , house 
+$5700 , 3br , 94404 , SAN MATEO , house 
+$5700 , 3br , 94404 , SAN MATEO , house 
+$5750 , 3br , 94403 , SAN MATEO , house 
+$3 , 2br , 94403 , SAN MATEO , house 
+$3750 , 2br , 94403 , SAN MATEO , house 
+$4500 , 3br , 94403 , SAN MATEO , house 
+$2850 , 2br , 94403 , SAN MATEO , house 
+$2288000 , 3br , 94403 , SAN MATEO , house 
+$4750 , 3br , 94403 , SAN MATEO , house 
+$3100 , 1br , 94403 , SAN MATEO , house 
+$4500 , 3br , 94403 , SAN MATEO , house 
+$4950 , 3br , 94403 , SAN MATEO , house 
+$5695 , 4br , 94403 , SAN MATEO , house 
+$5900 , 3br , 94403 , SAN MATEO , house 
+$3700 , 3br , 94403 , SAN MATEO , house 
+$3700 , 3br , 94403 , SAN MATEO , house 
+$3700 , 3br , 94403 , SAN MATEO , house 
+$5000 , 4br , 94403 , SAN MATEO , house 
+$2800 , 4br , 94510 , BENICIA , house 
+$4150 , 4br , 94510 , BENICIA , house 
+$4150 , 4br , 94510 , BENICIA , house 
+$3500 , 4br , 94510 , BENICIA , house 
+$2895 , 3br , 94510 , BENICIA , house 
+$3100 , 4br , 94510 , BENICIA , house 
+$3300 , 4br , 94510 , BENICIA , house 
+$2950 , 3br , 94510 , BENICIA , house 
+$2500 , 4br , 94510 , BENICIA , house 
+$2800 , 3br , 94510 , BENICIA , house 
+$2800 , 3br , 94510 , BENICIA , house 
+$2200 , 1br , 94510 , BENICIA , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4000 , 4br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4350 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4995 , 5br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$4350 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$6850 , 6br , 94608 , EMERYVILLE , house 
+$7000 , 6br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$2495 , 2br , 94608 , EMERYVILLE , house 
+$5250 , 4br , 94556 , MORAGA , house 
+$5975 , 5br , 94556 , MORAGA , house 
+$3300 , 3br , 94556 , MORAGA , house 
+$4500 , 3br , 94556 , MORAGA , house 
+$3650 , 3br , 94556 , MORAGA , house 
+$5250 , 4br , 94556 , MORAGA , house 
+$3200 , 2br , 94530 , EL CERRITO , house 
+$3800 , 4br , 94530 , EL CERRITO , house 
+$1700 , 1br , 94530 , EL CERRITO , house 
+$3995 , 3br , 94530 , EL CERRITO , house 
+$3995 , 3br , 94530 , EL CERRITO , house 
+$951 , 1br , 94530 , EL CERRITO , house 
+$3500 , 3br , 94530 , EL CERRITO , house 
+$3500 , 2br , 94530 , EL CERRITO , house 
+$6995 , 2br , 94103 , SAN FRANCISCO , house 
+$8500 , 3br , 94103 , SAN FRANCISCO , house 
+$18500 , 7br , 94109 , SAN FRANCISCO , house 
+$9995 , 4br , 94109 , SAN FRANCISCO , house 
+$15000 , 3br , 94109 , SAN FRANCISCO , house 
+$4100 , 3br , 94109 , SAN FRANCISCO , house 
+$5000 , 3br , 94109 , SAN FRANCISCO , house 
+$8000 , 4br , 94109 , SAN FRANCISCO , house 
+$12500 , 4br , 94109 , SAN FRANCISCO , house 
+$2895 , 1br , 94109 , SAN FRANCISCO , house 
+$7900 , 3br , 94109 , SAN FRANCISCO , house 
+$15000 , 5br , 94115 , SAN FRANCISCO , house 
+$9000 , 3br , 94115 , SAN FRANCISCO , house 
+$25000 , 5br , 94115 , SAN FRANCISCO , house 
+$6600 , 4br , 94118 , SAN FRANCISCO , house 
+$8750 , 4br , 94118 , SAN FRANCISCO , house 
+$15000 , 3br , 94118 , SAN FRANCISCO , house 
+$6600 , 4br , 94118 , SAN FRANCISCO , house 
+$7600 , 4br , 94118 , SAN FRANCISCO , house 
+$8950 , 3br , 94118 , SAN FRANCISCO , house 
+$5700 , 3br , 94118 , SAN FRANCISCO , house 
+$7600 , 4br , 94118 , SAN FRANCISCO , house 
+$6500 , 3br , 94118 , SAN FRANCISCO , house 
+$8950 , 3br , 94118 , SAN FRANCISCO , house 
+$7600 , 4br , 94118 , SAN FRANCISCO , house 
+$9450 , 4br , 94123 , SAN FRANCISCO , house 
+$18500 , 4br , 94123 , SAN FRANCISCO , house 
+$27995 , 4br , 94123 , SAN FRANCISCO , house 
+$8000 , 3br , 94123 , SAN FRANCISCO , house 
+$15000 , 4br , 94123 , SAN FRANCISCO , house 
+$20000 , 6br , 94123 , SAN FRANCISCO , house 
+$7500 , 3br , 94123 , SAN FRANCISCO , house 
+$7500 , 3br , 94123 , SAN FRANCISCO , house 
+$3500 , 4br , 94123 , SAN FRANCISCO , house 
+$25000 , 5br , 94123 , SAN FRANCISCO , house 
+$20000 , 4br , 94123 , SAN FRANCISCO , house 
+$21000 , 6br , 94123 , SAN FRANCISCO , house 
+$25000 , 4br , 94123 , SAN FRANCISCO , house 
+$13500 , 3br , 94123 , SAN FRANCISCO , house 
+$7950 , 3br , 94123 , SAN FRANCISCO , house 
+$13000 , 3br , 94123 , SAN FRANCISCO , house 
+$10000 , 3br , 94123 , SAN FRANCISCO , house 
+$3800 , 1br , 94123 , SAN FRANCISCO , house 
+$18500 , 3br , 94133 , SAN FRANCISCO , house 
+$4995 , 2br , 94133 , SAN FRANCISCO , house 
+$14995 , 5br , 94133 , SAN FRANCISCO , house 
+$14995 , 5br , 94133 , SAN FRANCISCO , house 
+$650 , 4br , 94111 , SAN FRANCISCO , house 
+$1094 , 3br , 94111 , SAN FRANCISCO , house 
+$13000 , 6br , 94121 , SAN FRANCISCO , house 
+$4800 , 4br , 94121 , SAN FRANCISCO , house 
+$3980 , 3br , 94121 , SAN FRANCISCO , house 
+$3980 , 1br , 94121 , SAN FRANCISCO , house 
+$3980 , 1br , 94121 , SAN FRANCISCO , house 
+$3980 , 1br , 94121 , SAN FRANCISCO , house 
+$13000 , 6br , 94121 , SAN FRANCISCO , house 
+$4000 , 2br , 94121 , SAN FRANCISCO , house 
+$4350 , 2br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$5500 , 5br , 94121 , SAN FRANCISCO , house 
+$3600 , 3br , 94121 , SAN FRANCISCO , house 
+$11000 , 5br , 94108 , SAN FRANCISCO , house 
+$25950 , 4br , 94117 , SAN FRANCISCO , house 
+$5395 , 2br , 94117 , SAN FRANCISCO , house 
+$10950 , 6br , 94117 , SAN FRANCISCO , house 
+$14000 , 5br , 94117 , SAN FRANCISCO , house 
+$7950 , 3br , 94117 , SAN FRANCISCO , house 
+$9200 , 3br , 94117 , SAN FRANCISCO , house 
+$4975 , 2br , 94117 , SAN FRANCISCO , house 
+$7300 , 3br , 94117 , SAN FRANCISCO , house 
+$10950 , 6br , 94117 , SAN FRANCISCO , house 
+$14000 , 5br , 94117 , SAN FRANCISCO , house 
+$5250 , 3br , 94122 , SAN FRANCISCO , house 
+$5995 , 3br , 94122 , SAN FRANCISCO , house 
+$4200 , 2br , 94122 , SAN FRANCISCO , house 
+$3500 , 3br , 94122 , SAN FRANCISCO , house 
+$3500 , 3br , 94122 , SAN FRANCISCO , house 
+$3500 , 3br , 94122 , SAN FRANCISCO , house 
+$1650 , 4br , 94122 , SAN FRANCISCO , house 
+$3850 , 2br , 94122 , SAN FRANCISCO , house 
+$4499 , 3br , 94122 , SAN FRANCISCO , house 
+$5500 , 3br , 94122 , SAN FRANCISCO , house 
+$5000 , 3br , 94122 , SAN FRANCISCO , house 
+$4200 , 3br , 94122 , SAN FRANCISCO , house 
+$1400 , 3br , 94122 , SAN FRANCISCO , house 
+$1400 , 3br , 94122 , SAN FRANCISCO , house 
+$150 , 1br , 94122 , SAN FRANCISCO , house 
+$5250 , 3br , 94122 , SAN FRANCISCO , house 
+$2200 , 4br , 94122 , SAN FRANCISCO , house 
+$3800 , 2br , 94122 , SAN FRANCISCO , house 
+$5000 , 3br , 94122 , SAN FRANCISCO , house 
+$2200 , 4br , 94122 , SAN FRANCISCO , house 
+$4000 , 2br , 94122 , SAN FRANCISCO , house 
+$5200 , 3br , 94122 , SAN FRANCISCO , house 
+$4200 , 2br , 94122 , SAN FRANCISCO , house 
+$3000 , 2br , 94122 , SAN FRANCISCO , house 
+$3000 , 2br , 94122 , SAN FRANCISCO , house 
+$3100 , 2br , 94122 , SAN FRANCISCO , house 
+$3100 , 2br , 94122 , SAN FRANCISCO , house 
+$4000 , 3br , 94122 , SAN FRANCISCO , house 
+$1500 , 2br , 94122 , SAN FRANCISCO , house 
+$1500 , 2br , 94122 , SAN FRANCISCO , house 
+$4000 , 3br , 94122 , SAN FRANCISCO , house 
+$4000 , 3br , 94122 , SAN FRANCISCO , house 
+$3450 , 2br , 94122 , SAN FRANCISCO , house 
+$950 , 1br , 94122 , SAN FRANCISCO , house 
+$4200 , 2br , 94122 , SAN FRANCISCO , house 
+$5500 , 3br , 94122 , SAN FRANCISCO , house 
+$17500 , 4br , 94114 , SAN FRANCISCO , house 
+$7500 , 3br , 94114 , SAN FRANCISCO , house 
+$9500 , 3br , 94114 , SAN FRANCISCO , house 
+$5000 , 2br , 94114 , SAN FRANCISCO , house 
+$8000 , 3br , 94114 , SAN FRANCISCO , house 
+$11000 , 3br , 94114 , SAN FRANCISCO , house 
+$10000 , 4br , 94114 , SAN FRANCISCO , house 
+$7600 , 4br , 94114 , SAN FRANCISCO , house 
+$12900 , 4br , 94114 , SAN FRANCISCO , house 
+$9200 , 3br , 94114 , SAN FRANCISCO , house 
+$4500 , 1br , 94114 , SAN FRANCISCO , house 
+$13000 , 4br , 94114 , SAN FRANCISCO , house 
+$8000 , 3br , 94114 , SAN FRANCISCO , house 
+$10000 , 4br , 94114 , SAN FRANCISCO , house 
+$12900 , 4br , 94114 , SAN FRANCISCO , house 
+$3950 , 1br , 94107 , SAN FRANCISCO , house 
+$7995 , 3br , 94107 , SAN FRANCISCO , house 
+$6995 , 3br , 94107 , SAN FRANCISCO , house 
+$4800 , 3br , 94107 , SAN FRANCISCO , house 
+$6995 , 2br , 94107 , SAN FRANCISCO , house 
+$7400 , 3br , 94107 , SAN FRANCISCO , house 
+$5900 , 2br , 94107 , SAN FRANCISCO , house 
+$4500 , 1br , 94107 , SAN FRANCISCO , house 
+$5900 , 2br , 94107 , SAN FRANCISCO , house 
+$7400 , 3br , 94107 , SAN FRANCISCO , house 
+$4500 , 1br , 94107 , SAN FRANCISCO , house 
+$8000 , 3br , 94107 , SAN FRANCISCO , house 
+$5600 , 3br , 94110 , SAN FRANCISCO , house 
+$5995 , 3br , 94110 , SAN FRANCISCO , house 
+$7995 , 4br , 94110 , SAN FRANCISCO , house 
+$5995 , 3br , 94110 , SAN FRANCISCO , house 
+$4350 , 3br , 94110 , SAN FRANCISCO , house 
+$5 , 4br , 94110 , SAN FRANCISCO , house 
+$5500 , 4br , 94110 , SAN FRANCISCO , house 
+$5000 , 3br , 94110 , SAN FRANCISCO , house 
+$6300 , 3br , 94110 , SAN FRANCISCO , house 
+$5450 , 2br , 94110 , SAN FRANCISCO , house 
+$5750 , 3br , 94110 , SAN FRANCISCO , house 
+$6000 , 4br , 94110 , SAN FRANCISCO , house 
+$6800 , 4br , 94131 , SAN FRANCISCO , house 
+$4500 , 4br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$4485 , 3br , 94131 , SAN FRANCISCO , house 
+$5250 , 3br , 94131 , SAN FRANCISCO , house 
+$4500 , 2br , 94131 , SAN FRANCISCO , house 
+$4500 , 3br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$8650 , 4br , 94131 , SAN FRANCISCO , house 
+$5400 , 2br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$6500 , 4br , 94131 , SAN FRANCISCO , house 
+$8500 , 5br , 94131 , SAN FRANCISCO , house 
+$7200 , 3br , 94131 , SAN FRANCISCO , house 
+$4850 , 3br , 94131 , SAN FRANCISCO , house 
+$5200 , 3br , 94131 , SAN FRANCISCO , house 
+$7850 , 3br , 94131 , SAN FRANCISCO , house 
+$7000 , 3br , 94131 , SAN FRANCISCO , house 
+$5500 , 4br , 94131 , SAN FRANCISCO , house 
+$4295 , 3br , 94131 , SAN FRANCISCO , house 
+$6000 , 2br , 94131 , SAN FRANCISCO , house 
+$4850 , 3br , 94131 , SAN FRANCISCO , house 
+$4495 , 3br , 94131 , SAN FRANCISCO , house 
+$4495 , 3br , 94131 , SAN FRANCISCO , house 
+$4300 , 3br , 94131 , SAN FRANCISCO , house 
+$4495 , 3br , 94131 , SAN FRANCISCO , house 
+$4495 , 3br , 94131 , SAN FRANCISCO , house 
+$5500 , 3br , 94131 , SAN FRANCISCO , house 
+$4495 , 3br , 94131 , SAN FRANCISCO , house 
+$4850 , 3br , 94131 , SAN FRANCISCO , house 
+$7850 , 3br , 94131 , SAN FRANCISCO , house 
+$4200 , 3br , 94131 , SAN FRANCISCO , house 
+$7000 , 3br , 94131 , SAN FRANCISCO , house 
+$5500 , 4br , 94131 , SAN FRANCISCO , house 
+$6400 , 4br , 94131 , SAN FRANCISCO , house 
+$4150 , 3br , 94116 , SAN FRANCISCO , house 
+$5975 , 4br , 94116 , SAN FRANCISCO , house 
+$2500 , 2br , 94116 , SAN FRANCISCO , house 
+$2900 , 1br , 94116 , SAN FRANCISCO , house 
+$1450 , 1br , 94116 , SAN FRANCISCO , house 
+$4500 , 3br , 94116 , SAN FRANCISCO , house 
+$3300 , 2br , 94116 , SAN FRANCISCO , house 
+$3100 , 2br , 94116 , SAN FRANCISCO , house 
+$3100 , 2br , 94116 , SAN FRANCISCO , house 
+$5000 , 4br , 94116 , SAN FRANCISCO , house 
+$4895 , 4br , 94116 , SAN FRANCISCO , house 
+$3900 , 2br , 94116 , SAN FRANCISCO , house 
+$4200 , 2br , 94116 , SAN FRANCISCO , house 
+$8211 , 3br , 94116 , SAN FRANCISCO , house 
+$3800 , 3br , 94116 , SAN FRANCISCO , house 
+$3350 , 2br , 94116 , SAN FRANCISCO , house 
+$4200 , 2br , 94116 , SAN FRANCISCO , house 
+$4500 , 3br , 94116 , SAN FRANCISCO , house 
+$5400 , 3br , 94124 , SAN FRANCISCO , house 
+$3995 , 2br , 94124 , SAN FRANCISCO , house 
+$1100 , 1br , 94124 , SAN FRANCISCO , house 
+$1100 , 1br , 94124 , SAN FRANCISCO , house 
+$1300 , 1br , 94124 , SAN FRANCISCO , house 
+$1300 , 1br , 94124 , SAN FRANCISCO , house 
+$3100 , 3br , 94124 , SAN FRANCISCO , house 
+$5680 , 6br , 94124 , SAN FRANCISCO , house 
+$2799 , 2br , 94124 , SAN FRANCISCO , house 
+$1600 , 1br , 94124 , SAN FRANCISCO , house 
+$5995 , 3br , 94127 , SAN FRANCISCO , house 
+$2100 , 1br , 94127 , SAN FRANCISCO , house 
+$1655 , 1br , 94127 , SAN FRANCISCO , house 
+$5750 , 4br , 94127 , SAN FRANCISCO , house 
+$4680 , 3br , 94127 , SAN FRANCISCO , house 
+$5750 , 4br , 94127 , SAN FRANCISCO , house 
+$5750 , 4br , 94127 , SAN FRANCISCO , house 
+$6495 , 4br , 94127 , SAN FRANCISCO , house 
+$1655 , 1br , 94127 , SAN FRANCISCO , house 
+$5350 , 4br , 94127 , SAN FRANCISCO , house 
+$5450 , 3br , 94127 , SAN FRANCISCO , house 
+$5250 , 3br , 94127 , SAN FRANCISCO , house 
+$8800 , 5br , 94127 , SAN FRANCISCO , house 
+$5500 , 4br , 94127 , SAN FRANCISCO , house 
+$6495 , 4br , 94127 , SAN FRANCISCO , house 
+$6495 , 4br , 94127 , SAN FRANCISCO , house 
+$4700 , 3br , 94127 , SAN FRANCISCO , house 
+$6390 , 5br , 94127 , SAN FRANCISCO , house 
+$15000 , 7br , 94127 , SAN FRANCISCO , house 
+$4600 , 3br , 94127 , SAN FRANCISCO , house 
+$5500 , 4br , 94127 , SAN FRANCISCO , house 
+$3980 , 2br , 94127 , SAN FRANCISCO , house 
+$3550 , 3br , 94132 , SAN FRANCISCO , house 
+$3700 , 2br , 94132 , SAN FRANCISCO , house 
+$3700 , 2br , 94132 , SAN FRANCISCO , house 
+$2995 , 2br , 94132 , SAN FRANCISCO , house 
+$2500 , 2br , 94132 , SAN FRANCISCO , house 
+$3600 , 3br , 94132 , SAN FRANCISCO , house 
+$3600 , 2br , 94132 , SAN FRANCISCO , house 
+$4250 , 2br , 94132 , SAN FRANCISCO , house 
+$3999 , 2br , 94132 , SAN FRANCISCO , house 
+$5995 , 3br , 94132 , SAN FRANCISCO , house 
+$1130 , 1br , 94132 , SAN FRANCISCO , house 
+$3000 , 2br , 94132 , SAN FRANCISCO , house 
+$4000 , 3br , 94132 , SAN FRANCISCO , house 
+$4500 , 3br , 94132 , SAN FRANCISCO , house 
+$4950 , 4br , 94132 , SAN FRANCISCO , house 
+$5950 , 3br , 94132 , SAN FRANCISCO , house 
+$4250 , 2br , 94132 , SAN FRANCISCO , house 
+$3999 , 2br , 94132 , SAN FRANCISCO , house 
+$5500 , 3br , 94132 , SAN FRANCISCO , house 
+$7775 , 5br , 94132 , SAN FRANCISCO , house 
+$5250 , 3br , 94132 , SAN FRANCISCO , house 
+$1300 , 1br , 94132 , SAN FRANCISCO , house 
+$1655 , 1br , 94132 , SAN FRANCISCO , house 
+$4250 , 2br , 94132 , SAN FRANCISCO , house 
+$3999 , 2br , 94132 , SAN FRANCISCO , house 
+$5500 , 3br , 94132 , SAN FRANCISCO , house 
+$2995 , 2br , 94132 , SAN FRANCISCO , house 
+$6800 , 5br , 94132 , SAN FRANCISCO , house 
+$4299 , 2br , 94132 , SAN FRANCISCO , house 
+$3998 , 2br , 94132 , SAN FRANCISCO , house 
+$5250 , 3br , 94132 , SAN FRANCISCO , house 
+$4800 , 2br , 94132 , SAN FRANCISCO , house 
+$3495 , 3br , 94132 , SAN FRANCISCO , house 
+$1655 , 1br , 94132 , SAN FRANCISCO , house 
+$1000 , 1br , 94112 , SAN FRANCISCO , house 
+$1100 , 1br , 94112 , SAN FRANCISCO , house 
+$3290 , 2br , 94112 , SAN FRANCISCO , house 
+$2000 , 1br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$3850 , 3br , 94112 , SAN FRANCISCO , house 
+$3995 , 2br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$1350 , 1br , 94112 , SAN FRANCISCO , house 
+$5500 , 5br , 94112 , SAN FRANCISCO , house 
+$9500 , 3br , 94112 , SAN FRANCISCO , house 
+$6500 , 4br , 94112 , SAN FRANCISCO , house 
+$4900 , 2br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$5000 , 2br , 94112 , SAN FRANCISCO , house 
+$1300 , 1br , 94112 , SAN FRANCISCO , house 
+$3500 , 3br , 94112 , SAN FRANCISCO , house 
+$4850 , 3br , 94112 , SAN FRANCISCO , house 
+$4000 , 2br , 94112 , SAN FRANCISCO , house 
+$5000 , 2br , 94112 , SAN FRANCISCO , house 
+$3700 , 3br , 94112 , SAN FRANCISCO , house 
+$2000 , 1br , 94112 , SAN FRANCISCO , house 
+$4295 , 3br , 94112 , SAN FRANCISCO , house 
+$4295 , 3br , 94112 , SAN FRANCISCO , house 
+$4000 , 2br , 94112 , SAN FRANCISCO , house 
+$3400 , 2br , 94112 , SAN FRANCISCO , house 
+$1100 , 1br , 94112 , SAN FRANCISCO , house 
+$4500 , 3br , 94112 , SAN FRANCISCO , house 
+$3295 , 2br , 94112 , SAN FRANCISCO , house 
+$4500 , 3br , 94112 , SAN FRANCISCO , house 
+$850 , 1br , 94112 , SAN FRANCISCO , house 
+$5000 , 4br , 94112 , SAN FRANCISCO , house 
+$5000 , 4br , 94112 , SAN FRANCISCO , house 
+$4550 , 2br , 94112 , SAN FRANCISCO , house 
+$4295 , 3br , 94112 , SAN FRANCISCO , house 
+$4000 , 2br , 94112 , SAN FRANCISCO , house 
+$3500 , 2br , 94112 , SAN FRANCISCO , house 
+$3700 , 3br , 94112 , SAN FRANCISCO , house 
+$3700 , 3br , 94112 , SAN FRANCISCO , house 
+$4800 , 3br , 94112 , SAN FRANCISCO , house 
+$1300 , 1br , 94112 , SAN FRANCISCO , house 
+$1300 , 1br , 94112 , SAN FRANCISCO , house 
+$1000 , 1br , 94112 , SAN FRANCISCO , house 
+$1000 , 1br , 94112 , SAN FRANCISCO , house 
+$2000 , 1br , 94112 , SAN FRANCISCO , house 
+$3950 , 3br , 94112 , SAN FRANCISCO , house 
+$6000 , 5br , 94112 , SAN FRANCISCO , house 
+$3900 , 3br , 94112 , SAN FRANCISCO , house 
+$2000 , 1br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$10 , 3br , 94112 , SAN FRANCISCO , house 
+$4499 , 3br , 94112 , SAN FRANCISCO , house 
+$4395 , 3br , 94112 , SAN FRANCISCO , house 
+$3000 , 2br , 94134 , SAN FRANCISCO , house 
+$3150 , 2br , 94134 , SAN FRANCISCO , house 
+$3350 , 3br , 94134 , SAN FRANCISCO , house 
+$5350 , 2br , 94134 , SAN FRANCISCO , house 
+$3000 , 2br , 94134 , SAN FRANCISCO , house 
+$7495 , 6br , 94134 , SAN FRANCISCO , house 
+$4000 , 2br , 94134 , SAN FRANCISCO , house 
+$5900 , 3br , 94134 , SAN FRANCISCO , house 
+$1550 , 3br , 94533 , FAIRFIELD , house 
+$1088 , 3br , 94533 , FAIRFIELD , house 
+$1000 , 3br , 94533 , FAIRFIELD , house 
+$1650 , 3br , 94533 , FAIRFIELD , house 
+$1795 , 3br , 94533 , FAIRFIELD , house 
+$3000 , 5br , 94533 , FAIRFIELD , house 
+$1850 , 4br , 94533 , FAIRFIELD , house 
+$2000 , 3br , 94533 , FAIRFIELD , house 
+$1995 , 4br , 94533 , FAIRFIELD , house 
+$1995 , 3br , 94533 , FAIRFIELD , house 
+$1900 , 4br , 94533 , FAIRFIELD , house 
+$1950 , 3br , 94533 , FAIRFIELD , house 
+$2000 , 4br , 94533 , FAIRFIELD , house 
+$2025 , 3br , 94533 , FAIRFIELD , house 
+$4075 , 3br , 95134 , SAN JOSE , house 
+$3700 , 3br , 95134 , SAN JOSE , house 
+$3700 , 3br , 95134 , SAN JOSE , house 
+$4000 , 3br , 95134 , SAN JOSE , house 
+$2900 , 3br , 95134 , SAN JOSE , house 
+$1200 , 2br , 94561 , OAKLEY , house 
+$2055 , 3br , 94561 , OAKLEY , house 
+$1900 , 4br , 94561 , OAKLEY , house 
+$2900 , 5br , 94561 , OAKLEY , house 
+$2090 , 3br , 94561 , OAKLEY , house 
+$2055 , 3br , 94561 , OAKLEY , house 
+$2400 , 4br , 94561 , OAKLEY , house 
+$1495 , 3br , 94561 , OAKLEY , house 
+$1495 , 3br , 94561 , OAKLEY , house 
+$1495 , 3br , 94561 , OAKLEY , house 
+$1670 , 3br , 94561 , OAKLEY , house 
+$1495 , 3br , 94561 , OAKLEY , house 
+$1495 , 3br , 94561 , OAKLEY , house 
+$2000 , 3br , 94561 , OAKLEY , house 
+$1800 , 3br , 94561 , OAKLEY , house 
+$2450 , 4br , 94561 , OAKLEY , house 
+$3100 , 3br , 94044 , PACIFICA , house 
+$3500 , 3br , 94044 , PACIFICA , house 
+$3500 , 3br , 94044 , PACIFICA , house 
+$3500 , 3br , 94044 , PACIFICA , house 
+$3500 , 3br , 94044 , PACIFICA , house 
+$4100 , 4br , 94044 , PACIFICA , house 
+$4200 , 3br , 94044 , PACIFICA , house 
+$4100 , 3br , 94044 , PACIFICA , house 
+$2 , 2br , 94044 , PACIFICA , house 
+$2500 , 2br , 94044 , PACIFICA , house 
+$4100 , 3br , 94044 , PACIFICA , house 
+$3500 , 3br , 94044 , PACIFICA , house 
+$3600 , 3br , 94044 , PACIFICA , house 
+$7800 , 5br , 94939 , LARKSPUR , house 
+$16000 , 6br , 94939 , LARKSPUR , house 
+$4500 , 2br , 94939 , LARKSPUR , house 
+$9750 , 3br , 94939 , LARKSPUR , house 
+$8400 , 3br , 94939 , LARKSPUR , house 
+$3300 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3800 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3800 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3800 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$5500 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3 , 4br , 94080 , SOUTH SAN FRANCISCO , house 
+$3900 , 4br , 94080 , SOUTH SAN FRANCISCO , house 
+$1200 , 1br , 94080 , SOUTH SAN FRANCISCO , house 
+$1200 , 1br , 94080 , SOUTH SAN FRANCISCO , house 
+$3200 , 2br , 94080 , SOUTH SAN FRANCISCO , house 
+$4000 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3000 , 2br , 94080 , SOUTH SAN FRANCISCO , house 
+$3195 , 1br , 94080 , SOUTH SAN FRANCISCO , house 
+$3950 , 3br , 94080 , SOUTH SAN FRANCISCO , house 
+$3000 , 2br , 94080 , SOUTH SAN FRANCISCO , house 
+$2800 , 3br , 94586 , SUNOL , house 
